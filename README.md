@@ -17,4 +17,4 @@ Currently, you can look forward to seeing a new version of the disease simulatio
 
 #### Everything (well almost everything) else
 
-I'd love to see more of the community changing and updating the projects and forking them. You can always view any repositories' webpage @ quantalabs.github.io/*repository-name*. Be careful when typing as the URL is case sensitive.
+I'd love to see more of the community changing and updating the projects and forking them. You can always view any repositorie's webpage @ quantalabs.github.io/*repository-name*. Be careful when typing as the URL is case sensitive.
