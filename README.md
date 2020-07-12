@@ -13,7 +13,7 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
   
 #### What I'm working on
 
-Currently, you can look forward to seeing a new version of the disease simulation. I am also thinking about making updates to Dark-Theme. I'm not exactly sure so please go to the repository and see what you think you can add.
+Currently, you can look forward to seeing a new version of the disease simulation. I am also thinking about making updates to Dark-Theme. I'm not exactly sure so please go to the repository and tell me what you think I should add.
 
 #### Everything (well almost everything) else
 
