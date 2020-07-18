@@ -11,9 +11,12 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
 * Sort
   * Several sorting algorithms.
   
-#### What I'm working on
+#### Look Out! New Repositories Coming Soon
+I'm going to be releasing a Chart Maker for JS. I'll also be making a new python disease simulation
+  
+#### What I'm Updating
 
-Currently, you can look forward to seeing a new version of the disease simulation. I am also thinking about making updates to Dark-Theme. I'm not exactly sure so please go to the repository and tell me what you think I should add.
+Currently, you can look forward to seeing a new version of the disease simulation. I am also thinking about making updates to Dark-Theme. I'm not exactly sure what to add so please go to the repository and tell me what you think I should do.
 
 #### Everything (well almost everything) else
 
