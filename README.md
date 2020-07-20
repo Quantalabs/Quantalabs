@@ -17,9 +17,9 @@ Currently, you can look forward to seeing a new version of the disease simulatio
 
 ### New Repositories
 * Climate.py
- * Graphs Global Temperatures from 1880-2020
+  * Graphs Global Temperatures from 1880-2020
 * Disease
- * Simulates a disease outbreak
+  * Simulates a disease outbreak
 
 #### Everything (well almost everything) else
 
