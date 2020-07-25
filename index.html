@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;900&display=swap" rel="stylesheet">  
+		<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200;900&display=swap" rel="stylesheet">
+		<link rel="icon" href="https://avatars3.githubusercontent.com/u/55121845?s=400&v=4" type="image">
     <meta charset="utf-8">
     <title>Quantalabs | Github</title>
     <style>
@@ -11,12 +12,22 @@
 				margin-left: 0px;
 				margin-right: 0px;
 			}
+			header a{
+				text-decoration: none;
+				color: white;
+				margin-left:10px;
+			}
+			header a:hover{
+				color: aqua;
+			}
 			#header{
 				margin-top: -25px;
 				height: 33vh;
 				text-align: center;
   			box-shadow:  0px 2px 2px #ffffff; 
 				font-family: 'Nunito', sans-serif; 
+				background-color: black;
+				color: white;
 			}
 			#header button {
 				border: none;
@@ -78,6 +89,20 @@
 				color: white;
 				border-top-style: solid;
 			}
+			#Climate {
+				background-image: url("https://docs.google.com/drawings/d/e/2PACX-1vQqYROVdA_1rhlpNIdyZJEgYDvE40jng_t8AtPbG-yBP9_8Jb4Z53JjUFc7mvpxG5b6Y-qu_iGtukqa/pub?w=1440&h=1080");
+				background-size: cover;
+				background-repeat: no-repeat;
+			}
+			#Climate h2{
+				font-size: 50px;
+			}
+			#Climate p{
+				width: 50vw;
+				text-align: center;
+				margin-left: auto;
+				margin-right: auto;
+			}
 			footer{
 				background-color: black;
 				color: white;
@@ -97,13 +122,29 @@
 		<header id="header">
 			<br>
 			<br>
+			<a href="https://github.com/quantalabs">Github</a>
+			<a href="https://github.com/quantalabs?tab=repositories">Repositories</a>
+			<a href="https://gist.github.com/quantalabs">Gists</a>
 			<br>
+			
 			<h1>QLabs</h1>
 			<sub><strong>Hi there, I'm Quantalabs. This is my projects page.</strong></sub>
 			<br>
 			<br>
 			<button onclick="window.location.href='https://github.com/quantalabs';">View on Github</button>
 		</header>
+		<section id="Climate" onclick="window.location.href = 'https://quantalabs.github.io/Climate'">
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<br>
+			<h1>Climate.py</h1>
+			<p>
+				Climate Change is a</p> <h2>BIG</h2><p> problem. But a small number of people know how quickly the temperature is rising and how fast we need to act. Climate.py graphs temperatures of the world, North America, and the carribean (with more coming soon!) so <strong>everyone</strong> understands the problem. 
+			</p>
+		</section>
 		<section id="Dark-Theme" onclick="window.location.href='https://github.com/quantalabs/Dark-Theme'">
 			<br>
 			<br>
@@ -205,7 +246,4 @@
 			<a href="https://gist.github.com/quantalabs" class="github">Gists</a>
 		</footer>
   </body>
-  <script>
-
-  </script>
 </html>
