@@ -7,7 +7,7 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
 * Dark-Theme
   * Changes a page into a dark theme.
 * Disease
-  * A disease simulation inspired by COVID-19.
+  * A disease simulation inspired by COVID-19 and 3b1b.
 * Sort
   * Several sorting algorithms
   
@@ -19,7 +19,9 @@ Currently, you can look forward to seeing a new version of the disease simulatio
 * Climate.py
   * Graphs Global Temperatures from 1880-2020
 * Disease
-  * Simulates a disease outbreak
+  * Simulates a disease outbreak. Inspired By COVID-19 and 3b1b.
+* COVID-19
+  * Graphs and Data about COVID-19
 
 #### Everything (well almost everything) else
 
