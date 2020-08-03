@@ -20,8 +20,8 @@ Currently, you can look forward to seeing a new version of the disease simulatio
   * Graphs Global Temperatures from 1880-2020
 * Disease
   * Simulates a disease outbreak. Inspired By COVID-19 and 3b1b.
-* COVID-19
-  * Graphs and Data about COVID-19
+* PrivatePy
+  * A bunch of differential-privacy algorithms
 
 #### Everything (well almost everything) else
 
