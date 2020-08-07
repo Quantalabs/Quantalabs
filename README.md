@@ -13,7 +13,7 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
 
 ### New Repositories
 * DiffPriv
-  * A Python Package meant for differential privacy. View on PyPI @ https://pypi.org/project/DiffPriv/
+  * A Python Package meant for differential privacy. View on PyPI @ https://pypi.org/project/DiffPriv/ Homepage - https://quantalabs.github.io/DiffPriv
 * Climate.py
   * Graphs Global Temperatures from 1880-2020
 * Disease
