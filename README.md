@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Quantalabs. I just code whatever I feel like and put it under a GNU General Public License v3.0 no matter what (including this project). You can always see one of my latest projects [here](https://quantalabs.github.io). Other projects I've created include:
+I'm Quantalabs. I just code whatever I feel like and put it under a GNU General Public License v3.0 no matter what (including this README). You can always see one of my latest projects [here](https://quantalabs.github.io). Other projects I've created include:
 
 * Electron
   * A JS Library that makes graphics easier.
@@ -10,6 +10,9 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
   * A disease simulation inspired by COVID-19 and 3b1b.
 * Sort
   * Several sorting algorithms
+
+### In Progress
+Working on PyChart (haha, get it, PyChart instead of Pie Chart, haha), a python graphics library like manim or matplotlib.
 
 ### New Repositories
 * DiffPriv
