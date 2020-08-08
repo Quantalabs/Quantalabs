@@ -21,7 +21,7 @@ Working on PyChart (haha, get it, PyChart instead of Pie Chart, haha), a python 
 * Climate.py
   * Graphs Global Temperatures from 1880-2020
 * Disease
-  * Simulates a disease outbreak. Inspired By COVID-19, @3b1b, and @quantum9innovation.
+  * Simulates a disease outbreak. Inspired By COVID-19 and @3b1b
 
 #### Everything (well almost everything) else
 
