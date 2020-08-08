@@ -7,9 +7,9 @@ I'm Quantalabs. I just code whatever I feel like and put it under a GNU General 
 * Dark-Theme
   * Changes a page into a dark theme.
 * Disease
-  * A disease simulation inspired by COVID-19 and 3b1b.
+  * A disease simulation inspired by COVID-19, @3b1b, and @quantum9innovation.
 * Sort
-  * Several sorting algorithms
+  * Several **amazing** sorting algorithms
 
 ### In Progress
 Working on PyChart (haha, get it, PyChart instead of Pie Chart, haha), a python graphics library like manim or matplotlib.
@@ -17,10 +17,11 @@ Working on PyChart (haha, get it, PyChart instead of Pie Chart, haha), a python 
 ### New Repositories
 * DiffPriv
   * A Python Package meant for differential privacy. View on PyPI @ https://pypi.org/project/DiffPriv/ Homepage - https://quantalabs.github.io/DiffPriv
+  * See also https://quantum9innovation.github.io/Differential-Privacy
 * Climate.py
   * Graphs Global Temperatures from 1880-2020
 * Disease
-  * Simulates a disease outbreak. Inspired By COVID-19 and 3b1b.
+  * Simulates a disease outbreak. Inspired By COVID-19, @3b1b, and @quantum9innovation.
 
 #### Everything (well almost everything) else
 
