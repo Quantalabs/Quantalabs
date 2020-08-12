@@ -2,7 +2,7 @@
 
 I'm Quantalabs. I just code whatever I feel like and put it under a GNU General Public License v3.0 no matter what (including this README). You can always see one of my latest projects [here](https://quantalabs.github.io). Other projects I've created include:
 
-* Electron
+* Lamp
   * A JS Library that makes graphics easier.
 * Dark-Theme
   * Changes a page into a dark theme.
