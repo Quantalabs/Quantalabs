@@ -24,7 +24,7 @@ Working on PyChart (haha, get it, PyChart instead of Pie Chart, haha), a python 
 
 # Github Stats
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;theme=dark)![Stats](https://github-readme-stats.vercel.app/api?username=Quantalabs&theme=dark&show_icons=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs)![Stats](https://github-readme-stats.vercel.app/api?username=Quantalabs&show_icons=true)
 
 #### Everything (well almost everything) else
 
