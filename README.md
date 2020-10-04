@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quantalabs</h1>
 <h3 align="center">A programmer who specializes in python, HTML/CSS, and JS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantalabs" alt="quantalabs" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=quantalabs" alt="quantalabs" /> </p>
 
 - 🔭 I’m currently working on [Stalemate](https://github.com/quantalabs/stalemate)
 
