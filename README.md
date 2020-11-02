@@ -12,7 +12,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Modeling Disease Outbreaks (the simple way)](https://medium.com/swlh/modeling-disease-outbreaks-the-simple-way-7bbec8c060bb?source=rss-12bae4e5b0a0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
