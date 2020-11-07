@@ -16,6 +16,10 @@
 - [Modeling Disease Outbreaks (the Simple Way)](https://medium.com/swlh/modeling-disease-outbreaks-the-simple-way-7bbec8c060bb?source=rss-12bae4e5b0a0------2)
 <!-- BLOG-POST-LIST:END -->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/13753505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13753505" height="30" width="40" /></a>
