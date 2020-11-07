@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
+          max_post_count: "4"  
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
           feed_list: "https://stackoverflow.com/feeds/user/13753505/"
