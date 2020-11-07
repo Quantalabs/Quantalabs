@@ -16,7 +16,7 @@
 - [Modeling Disease Outbreaks (the Simple Way)](https://medium.com/swlh/modeling-disease-outbreaks-the-simple-way-7bbec8c060bb?source=rss-12bae4e5b0a0------2)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [ReadTheDocs: Publishing Pre-Built HTML Pages to ReadTheDocs](https://stackoverflow.com/questions/64518816/readthedocs-publishing-pre-built-html-pages-to-readthedocs)
 - [Answer by Quantalabs for What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file?](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies/64326093#64326093)
