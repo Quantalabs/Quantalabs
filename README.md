@@ -22,7 +22,6 @@
 - [Answer by Quantalabs for What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file?](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies/64326093#64326093)
 - [Mocha, Electron: Errors in testing](https://stackoverflow.com/questions/64311202/mocha-electron-errors-in-testing)
 - [Electron: Maximize Window on Start](https://stackoverflow.com/questions/64189121/electron-maximize-window-on-start)
-- [Answer by Quantalabs for Trying to run a program in Pycharm](https://stackoverflow.com/questions/63873556/trying-to-run-a-program-in-pycharm/63876628#63876628)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
