@@ -18,10 +18,10 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Quantalabs for Errors when installing MatPlotLib](https://stackoverflow.com/questions/64744232/errors-when-installing-matplotlib/64961985#64961985)
 - [Errors when installing MatPlotLib](https://stackoverflow.com/questions/64744232/errors-when-installing-matplotlib)
 - [ReadTheDocs: Publishing Pre-Built HTML Pages to ReadTheDocs](https://stackoverflow.com/questions/64518816/readthedocs-publishing-pre-built-html-pages-to-readthedocs)
 - [Answer by Quantalabs for What's the difference between dependencies, devDependencies and peerDependencies in npm package.json file?](https://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies/64326093#64326093)
-- [Mocha, Electron: Errors in testing](https://stackoverflow.com/questions/64311202/mocha-electron-errors-in-testing)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
