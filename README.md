@@ -13,6 +13,9 @@
 ### Blogs posts
 <p align="center">
 <!-- BLOG-POST-LIST:START -->
+- [How to publish NPM packages](https://medium.com/javascript-in-plain-english/how-to-publish-npm-packages-6f70178fe789?source=rss-12bae4e5b0a0------2)
+- [Simple Differential Privacy — and how to code it](https://medium.com/@qlabs/simple-differential-privacy-and-how-to-code-it-f2fd52e675b?source=rss-12bae4e5b0a0------2)
+- [Modeling Disease Outbreaks (the Simple Way)](https://medium.com/swlh/modeling-disease-outbreaks-the-simple-way-7bbec8c060bb?source=rss-12bae4e5b0a0------2)
 <!-- BLOG-POST-LIST:END -->
 </p>
 <h3 align="center">Connect with me:</h3>
