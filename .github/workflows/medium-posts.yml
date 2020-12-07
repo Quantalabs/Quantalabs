@@ -14,5 +14,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@qlabs"
+          feed_list: "https://dev.to/feed/quantalabs"
           max_post_count: "4"
