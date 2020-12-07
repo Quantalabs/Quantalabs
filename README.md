@@ -18,10 +18,10 @@
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist)
 - [Pdoc: doesn't generate documentation](https://stackoverflow.com/questions/65030177/pdoc-doesnt-generate-documentation)
 - [Answer by Quantalabs for Errors when installing MatPlotLib](https://stackoverflow.com/questions/64744232/errors-when-installing-matplotlib/64961985#64961985)
 - [Errors when installing MatPlotLib](https://stackoverflow.com/questions/64744232/errors-when-installing-matplotlib)
-- [ReadTheDocs: Publishing Pre-Built HTML Pages to ReadTheDocs](https://stackoverflow.com/questions/64518816/readthedocs-publishing-pre-built-html-pages-to-readthedocs)
 <!-- STACKOVERFLOW:END -->
 
 <h3 align="left">Connect with me:</h3>
