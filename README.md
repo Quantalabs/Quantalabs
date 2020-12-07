@@ -11,9 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to publish NPM packages](https://medium.com/javascript-in-plain-english/how-to-publish-npm-packages-6f70178fe789?source=rss-12bae4e5b0a0------2)
-- [Simple Differential Privacy — and how to code it](https://medium.com/@qlabs/simple-differential-privacy-and-how-to-code-it-f2fd52e675b?source=rss-12bae4e5b0a0------2)
-- [Modeling Disease Outbreaks (the Simple Way)](https://medium.com/swlh/modeling-disease-outbreaks-the-simple-way-7bbec8c060bb?source=rss-12bae4e5b0a0------2)
+- [Creating Apps with ElectronJS](https://dev.to/quantalabs/creating-apps-with-electronjs-2850)
+- [Simple Differential Privacy](https://dev.to/quantalabs/simple-differential-privacy-3phh)
+- [Simple Disease Outbreak Modeling - Inspired by a 3b1b video](https://dev.to/quantalabs/simple-disease-outbreak-modeling-inspired-by-a-3b1b-video-4763)
+- [How to publish NPM packages](https://dev.to/quantalabs/how-to-publish-npm-packages-1j5m)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
