@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Cardinal, a new python graphics package**
 
-- 👯 Some of my best projects include [EpiSpot, a tool for epidemiologists](https://github.com/epispot/epispot)
-
 - 📝 You can view my blog at [https://qlabs.netlify.com](https://qlabs.netlify.com)
 
 ### Blogs posts
