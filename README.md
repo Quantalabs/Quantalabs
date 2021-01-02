@@ -1,38 +1,23 @@
-<h1 align="center">Hi 👋, I'm Quantalabs</h1>
-<h3 align="center">Avid developer and musician</h3>
+### Hi there 👋, I'm QLabs
+![](https://i.ibb.co/mbr1j6p/Qlabs.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quantalabs&label=Profile%20views&color=0e75b6&style=flat" alt="quantalabs" /> </p>
+I'm an avid developer, musician, and hobbyist. Some of my projects include:
+ - [Lamp](https://github.com/Quantalabs/Lamp), a graphics package for JS
+- [epispot](https://github.com/epispot/epispot), a python package for epidemiologists. 
+- [covid19-tracker](https://github.com/epispot/covid19-tracker), a Discord bot which tracks the pandemic.
 
-- 🔭 I’m currently working on **Cardinal, a new python graphics package**
+and more...
 
-- 📝 You can view my blog at [https://qlabs.netlify.com](https://qlabs.netlify.com)
+- 🔭 I’m currently working on Leaf, a programming language created for mathematicians and data scientists. 
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Creating Apps with ElectronJS](https://dev.to/quantalabs/creating-apps-with-electronjs-2850)
-- [Simple Differential Privacy](https://dev.to/quantalabs/simple-differential-privacy-3phh)
-- [Simple Disease Outbreak Modeling - Inspired by a 3b1b video](https://dev.to/quantalabs/simple-disease-outbreak-modeling-inspired-by-a-3b1b-video-4763)
-- [How to publish NPM packages](https://dev.to/quantalabs/how-to-publish-npm-packages-1j5m)
-<!-- BLOG-POST-LIST:END -->
 
-### StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Quantalabs for heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist/65473067#65473067)
-- [Answer by Quantalabs for What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an/65209848#65209848)
-- [What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an)
-- [heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist)
-<!-- STACKOVERFLOW:END -->
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13753505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://qlabs.medium.com)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/quantalabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="quantalabs" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13753505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13753505" height="30" width="40" /></a>
-<a href="https://medium.com/@qlabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@qlabs" height="30" width="40" /></a>
-</p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.electronjs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quantalabs&show_icons=true&locale=en&layout=compact" alt="quantalabs" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantalabs&show_icons=true&count_private=true)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=quantalabs&show_icons=true&locale=en" alt="quantalabs" /></p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Quantalabs)  
+
