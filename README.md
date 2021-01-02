@@ -11,11 +11,11 @@ and more...
 - 🔭 I’m currently working on **Leaf, a programming language created for mathematicians and data scientists.**
 - 📜 View my blog **at https://qlabs.netlify.app**
 
-# Latest blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-# Stackoverflow Activity
+## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 
