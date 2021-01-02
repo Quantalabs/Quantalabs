@@ -8,8 +8,16 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 
 and more...
 
-- 🔭 I’m currently working on Leaf, a programming language created for mathematicians and data scientists. 
+- 🔭 I’m currently working on **Leaf, a programming language created for mathematicians and data scientists.**
+- 📜 View my blog **at https://qlabs.netlify.app**
 
+# Latest blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+# Stackoverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13753505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://qlabs.medium.com)  
 
