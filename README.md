@@ -1,5 +1,5 @@
-### Hi there 👋, I'm QLabs
-![](https://i.ibb.co/mbr1j6p/Qlabs.png)
+<h1 align="center">Hi there 👋, I'm QLabs </h1>
+<img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
  - [Lamp](https://github.com/Quantalabs/Lamp), a graphics package for JS
@@ -15,9 +15,6 @@ and more...
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Quantalabs&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Quantalabs)  
-
