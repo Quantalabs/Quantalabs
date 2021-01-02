@@ -21,6 +21,10 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Quantalabs for heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist/65473067#65473067)
+- [Answer by Quantalabs for What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an/65209848#65209848)
+- [What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an)
+- [heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist)
 <!-- STACKOVERFLOW:END -->
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Quantalabs)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13753505)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://qlabs.medium.com)  
