@@ -13,10 +13,10 @@ and more...
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What to code?](https://dev.to/quantalabs/what-to-code-k24)
+- [Good Resources for creating a programming language](https://dev.to/quantalabs/good-resources-for-creating-a-programming-language-38mh)
 - [Creating Apps with ElectronJS](https://dev.to/quantalabs/creating-apps-with-electronjs-2850)
 - [Simple Differential Privacy](https://dev.to/quantalabs/simple-differential-privacy-3phh)
-- [Simple Disease Outbreak Modeling - Inspired by a 3b1b video](https://dev.to/quantalabs/simple-disease-outbreak-modeling-inspired-by-a-3b1b-video-4763)
-- [How to publish NPM packages](https://dev.to/quantalabs/how-to-publish-npm-packages-1j5m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stackoverflow Activity
