@@ -13,10 +13,10 @@ and more...
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcing epiblog](https://dev.to/epispot/announcing-epiblog-2g4c)
 - [What to code?](https://dev.to/quantalabs/what-to-code-k24)
 - [Good Resources for creating a programming language](https://dev.to/quantalabs/good-resources-for-creating-a-programming-language-38mh)
 - [Creating Apps with ElectronJS](https://dev.to/quantalabs/creating-apps-with-electronjs-2850)
-- [Simple Differential Privacy](https://dev.to/quantalabs/simple-differential-privacy-3phh)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stackoverflow Activity
