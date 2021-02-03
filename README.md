@@ -9,7 +9,7 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 and more...
 
 - 🔭 I’m currently working on **Leaf, a programming language created for mathematicians and data scientists.**
-- 📜 View my blog **at https://qlabs.netlify.app**
+- 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
