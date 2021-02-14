@@ -8,7 +8,7 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 
 and more...
 
-- 🔭 I’m currently working on **Leaf, a programming language created for mathematicians and data scientists.**
+- 🔭 I’m currently working on **publishing a new version of [epispot](https://github.com/epispot/epispot), a tool for modelling infectious diseases.**
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Latest blog posts
