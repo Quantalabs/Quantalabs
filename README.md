@@ -21,8 +21,8 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How to get coverage for multiple test files with coverge.py [duplicate]](https://stackoverflow.com/questions/66192434/how-to-get-coverage-for-multiple-test-files-with-coverge-py)
 - [Answer by Quantalabs for heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist/65473067#65473067)
 - [Answer by Quantalabs for What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an/65209848#65209848)
 - [What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an)
-- [heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist)
 <!-- STACKOVERFLOW:END -->
