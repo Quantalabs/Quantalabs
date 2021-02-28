@@ -2,7 +2,6 @@
 <img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
- - [Lamp](https://github.com/Quantalabs/Lamp), a graphics package for JS
 - [epispot](https://github.com/epispot/epispot), a python package for epidemiologists. 
 - [covid19-tracker](https://github.com/epispot/covid19-tracker), a Discord bot which tracks the pandemic.
 
