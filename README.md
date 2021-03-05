@@ -20,8 +20,8 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Sorting a pandas dataframe by the subtraction of two values](https://stackoverflow.com/questions/66484119/sorting-a-pandas-dataframe-by-the-subtraction-of-two-values)
 - [Pytest not finding tests on GitHub actions](https://stackoverflow.com/questions/66216530/pytest-not-finding-tests-on-github-actions)
 - [How to get coverage for multiple test files with coverge.py [duplicate]](https://stackoverflow.com/questions/66192434/how-to-get-coverage-for-multiple-test-files-with-coverge-py)
 - [Answer by Quantalabs for heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist/65473067#65473067)
-- [Answer by Quantalabs for What is `sha256` and what should I put as it's value in a `meta.yaml` file of an anaconda package](https://stackoverflow.com/questions/65209682/what-is-sha256-and-what-should-i-put-as-its-value-in-a-meta-yaml-file-of-an/65209848#65209848)
 <!-- STACKOVERFLOW:END -->
