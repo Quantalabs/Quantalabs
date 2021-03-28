@@ -20,8 +20,8 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [How to split a string in python but keep anything in a grouping symbol as one [duplicate]](https://stackoverflow.com/questions/66837187/how-to-split-a-string-in-python-but-keep-anything-in-a-grouping-symbol-as-one)
 - [Sorting a pandas dataframe by the subtraction of two values](https://stackoverflow.com/questions/66484119/sorting-a-pandas-dataframe-by-the-subtraction-of-two-values)
 - [Pytest not finding tests on GitHub actions](https://stackoverflow.com/questions/66216530/pytest-not-finding-tests-on-github-actions)
 - [How to get coverage for multiple test files with coverge.py [duplicate]](https://stackoverflow.com/questions/66192434/how-to-get-coverage-for-multiple-test-files-with-coverge-py)
-- [Answer by Quantalabs for heroku login command doesn't exist](https://stackoverflow.com/questions/65164186/heroku-login-command-doesnt-exist/65473067#65473067)
 <!-- STACKOVERFLOW:END -->
