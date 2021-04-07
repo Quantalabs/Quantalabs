@@ -3,7 +3,7 @@
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
 - [epispot](https://github.com/epispot/epispot), a python package for epidemiologists. 
-- [covid19-tracker](https://github.com/epispot/covid19-tracker), a Discord bot which tracks the pandemic.
+- [NCovDashboard](https://github.com/Quantalabs/NCovDashboard), a neat US COVID-19 Dashboard.
 
 and more...
 
