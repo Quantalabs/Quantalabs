@@ -12,10 +12,10 @@ and more...
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Upcoming epispot and epispot nightly features](https://dev.to/epispot/upcoming-epispot-and-epispot-nightly-features-52ep)
 - [Everything you need to start developing in python](https://dev.to/quantalabs/everything-you-need-to-start-developing-in-python-57m5)
 - [Epispot on Anaconda](https://dev.to/epispot/epispot-on-anaconda-15l8)
 - [Announcing epiblog](https://dev.to/epispot/announcing-epiblog-2g4c)
-- [What to code?](https://dev.to/quantalabs/what-to-code-k24)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stackoverflow Activity
