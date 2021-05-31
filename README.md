@@ -12,11 +12,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/Quantalabs/DiffPriv/pull/17) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-2. ❗️ Closed issue [#14](https://github.com/Quantalabs/DiffPriv/issues/14) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-3. 🗣 Commented on [#11](https://github.com/Quantalabs/EpiJS/issues/11) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. 🎉 Merged PR [#3](https://github.com/conda-forge/diffpriv-feedstock/pull/3) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-5. 🎉 Merged PR [#21](https://github.com/Quantalabs/DiffPriv/pull/21) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+1. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
+2. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
+3. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
+4. ❌ Closed PR [#58](https://github.com/epispot/epispot/pull/58) in [epispot/epispot](https://github.com/epispot/epispot)
+5. 💪 Opened PR [#58](https://github.com/epispot/epispot/pull/58) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
