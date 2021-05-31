@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
-- [epispot](https://github.com/epispot/epispot), a python package for epidemiologists. 
+- [DiffPriv](https://github.com/Quantalabs/DiffPriv), a python package for differential privacy and encryption. 
 - [NCovDashboard](https://github.com/Quantalabs/NCovDashboard), a neat US COVID-19 Dashboard.
 
 and more...
