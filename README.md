@@ -10,6 +10,10 @@ and more...
 - 🔭 I’m currently working on **publishing the first version of [DiffPriv](https://github.com/Quantalabs/DiffPriv), a python privacy tool.**
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
+## GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Upcoming epispot and epispot nightly features](https://dev.to/epispot/upcoming-epispot-and-epispot-nightly-features-52ep)
@@ -25,3 +29,4 @@ and more...
 - [Pytest not finding tests on GitHub actions](https://stackoverflow.com/questions/66216530/pytest-not-finding-tests-on-github-actions)
 - [How to get coverage for multiple test files with coverge.py [duplicate]](https://stackoverflow.com/questions/66192434/how-to-get-coverage-for-multiple-test-files-with-coverge-py)
 <!-- STACKOVERFLOW:END -->
+
