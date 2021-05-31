@@ -12,6 +12,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/conda-forge/diffpriv-feedstock/pull/3) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+2. 🎉 Merged PR [#21](https://github.com/Quantalabs/DiffPriv/pull/21) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+3. ❌ Closed PR [#5](https://github.com/Quantalabs/NCOVDashboard/pull/5) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
+4. ❌ Closed PR [#3](https://github.com/Quantalabs/NCOVDashboard/pull/3) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
+5. 🗣 Commented on [#3](https://github.com/Quantalabs/NCOVDashboard/issues/3) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
