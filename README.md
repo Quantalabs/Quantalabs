@@ -29,9 +29,9 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Make a python file an executable](https://stackoverflow.com/questions/67781059/make-a-python-file-an-executable)
+- [Answer by Quantalabs for Pygame quitting unexpectedly (MacOS problem)](https://stackoverflow.com/questions/67780046/pygame-quitting-unexpectedly-macos-problem/67780153#67780153)
 - [How to split a string in python but keep anything in a grouping symbol as one [duplicate]](https://stackoverflow.com/questions/66837187/how-to-split-a-string-in-python-but-keep-anything-in-a-grouping-symbol-as-one)
 - [Sorting a pandas dataframe by the subtraction of two values](https://stackoverflow.com/questions/66484119/sorting-a-pandas-dataframe-by-the-subtraction-of-two-values)
-- [Pytest not finding tests on GitHub actions](https://stackoverflow.com/questions/66216530/pytest-not-finding-tests-on-github-actions)
-- [How to get coverage for multiple test files with coverge.py [duplicate]](https://stackoverflow.com/questions/66192434/how-to-get-coverage-for-multiple-test-files-with-coverge-py)
 <!-- STACKOVERFLOW:END -->
 
