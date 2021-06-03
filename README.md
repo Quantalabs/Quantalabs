@@ -7,7 +7,6 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 
 and more...
 
-- 🔭 I’m currently working on **publishing the first version of [DiffPriv](https://github.com/Quantalabs/DiffPriv), a python privacy tool.**
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## GitHub Activity
