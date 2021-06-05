@@ -34,3 +34,6 @@ and more...
 - [Answer by Quantalabs for Pygame quitting unexpectedly (MacOS problem)](https://stackoverflow.com/questions/67780046/pygame-quitting-unexpectedly-macos-problem/67780153#67780153)
 <!-- STACKOVERFLOW:END -->
 
+## Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;hide=css,html,scss" alt="Language Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Quantalabs&amp;show_icons=true" alt="Overall GitHub Stats"></p>
