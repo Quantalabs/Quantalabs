@@ -28,9 +28,9 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Quantalabs for Triangle angle classification](https://stackoverflow.com/questions/67845566/triangle-angle-classification/67845594#67845594)
+- [Linker for Windows x64](https://stackoverflow.com/questions/67845567/linker-for-windows-x64)
 - [Make a python file an executable](https://stackoverflow.com/questions/67781059/make-a-python-file-an-executable)
 - [Answer by Quantalabs for Pygame quitting unexpectedly (MacOS problem)](https://stackoverflow.com/questions/67780046/pygame-quitting-unexpectedly-macos-problem/67780153#67780153)
-- [How to split a string in python but keep anything in a grouping symbol as one [duplicate]](https://stackoverflow.com/questions/66837187/how-to-split-a-string-in-python-but-keep-anything-in-a-grouping-symbol-as-one)
-- [Sorting a pandas dataframe by the subtraction of two values](https://stackoverflow.com/questions/66484119/sorting-a-pandas-dataframe-by-the-subtraction-of-two-values)
 <!-- STACKOVERFLOW:END -->
 
