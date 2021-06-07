@@ -11,11 +11,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#463](https://github.com/mathdroid/covid-19-api/pull/463) in [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api)
-2. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
-3. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
-4. 🗣 Commented on [#57](https://github.com/epispot/epispot/issues/57) in [epispot/epispot](https://github.com/epispot/epispot)
-5. ❌ Closed PR [#58](https://github.com/epispot/epispot/pull/58) in [epispot/epispot](https://github.com/epispot/epispot)
+1. ❗️ Closed issue [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+2. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+3. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+4. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+5. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
