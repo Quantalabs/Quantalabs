@@ -11,11 +11,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-2. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-3. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-4. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-5. 🗣 Commented on [#23](https://github.com/Quantalabs/DiffPriv/issues/23) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+1. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. ❗️ Opened issue [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
+4. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
+5. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
