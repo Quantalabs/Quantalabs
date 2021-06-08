@@ -2,8 +2,8 @@
 <img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
-- [EpiJS](/EpiJS), a disease modelling package for JS. 
-- [NCovDashboard](/NCovDashboard), a neat US COVID-19 Dashboard.
+- [EpiJS](https://gihub.com/Quantalabs/EpiJS), a disease modelling package for JS. 
+- [NCovDashboard](https://gihub.com/Quantalabs/NCovDashboard), a neat US COVID-19 Dashboard.
 
 and more...
 
