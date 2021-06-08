@@ -9,6 +9,13 @@ and more...
 
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
+## Recent Releases
+- NCOVDashboard v1.2.0
+- EpiJS v1.1.0
+- DiffPriv v1.0.1
+- NCOVDashboard v1.1.0
+- DiffPriv v1.0.0
+
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#15](https://github.com/Quantalabs/EpiJS/issues/15) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
