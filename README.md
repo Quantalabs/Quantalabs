@@ -10,11 +10,11 @@ and more...
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
-- NCOVDashboard v1.2.0
-- EpiJS v1.1.0
-- DiffPriv v1.0.1
-- NCOVDashboard v1.1.0
-- DiffPriv v1.0.0
+- [NCOVDashboard v1.2.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.2.0)
+- [EpiJS v1.1.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.1.0)
+- [DiffPriv v1.0.1](https://github.com/Quantalabs/DiffPriv/releases/tag/v1.0.1)
+- [NCOVDashboard v1.1.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.1.0)
+- [DiffPriv v1.0.0](https://github.com/Quantalabs/DiffPriv/releases/tag/v1.0.0)
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
