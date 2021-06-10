@@ -2,8 +2,9 @@
 <img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
-- [EpiJS](https://github.com/Quantalabs/EpiJS), a disease modelling package for JS. 
-- [NCovDashboard](https://github.com/Quantalabs/NCovDashboard), a neat US COVID-19 Dashboard.
+<p align='center'><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=EpiJS" alt="Readme Card"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=NCOVDashboard" alt="Readme Card"></a></p>
+
 
 and more...
 
@@ -42,5 +43,5 @@ and more...
 <!-- STACKOVERFLOW:END -->
 
 ## Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;hide=css,html,scss" alt="Language Stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Quantalabs&amp;show_icons=true" alt="Overall GitHub Stats"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;hide=css,html,scss&layout=compact" alt="Language Stats">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Quantalabs" alt="Quantalabs Wakatime Stats"></a></p>
