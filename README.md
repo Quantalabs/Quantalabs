@@ -36,10 +36,10 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [NPM Package not publishing](https://stackoverflow.com/questions/67928415/npm-package-not-publishing)
 - [Answer by Quantalabs for Triangle angle classification](https://stackoverflow.com/questions/67845566/triangle-angle-classification/67845594#67845594)
 - [Linker for Windows x64](https://stackoverflow.com/questions/67845567/linker-for-windows-x64)
 - [Make a python file an executable](https://stackoverflow.com/questions/67781059/make-a-python-file-an-executable)
-- [Answer by Quantalabs for Pygame quitting unexpectedly (MacOS problem)](https://stackoverflow.com/questions/67780046/pygame-quitting-unexpectedly-macos-problem/67780153#67780153)
 <!-- STACKOVERFLOW:END -->
 
 ## Stats
