@@ -28,10 +28,10 @@ and more...
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Brilliance of the Compartmental Models](https://dev.to/quantalabs/the-brilliance-of-the-compartmental-models-1j99)
 - [Upcoming epispot and epispot nightly features](https://dev.to/epispot/upcoming-epispot-and-epispot-nightly-features-52ep)
 - [Everything you need to start developing in python](https://dev.to/quantalabs/everything-you-need-to-start-developing-in-python-57m5)
 - [Epispot on Anaconda](https://dev.to/epispot/epispot-on-anaconda-15l8)
-- [Announcing epiblog](https://dev.to/epispot/announcing-epiblog-2g4c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Stackoverflow Activity
