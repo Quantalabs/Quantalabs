@@ -43,4 +43,4 @@ and more...
 
 ## Stats
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;hide=css,html,scss&layout=compact" alt="Language Stats"><br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Quantalabs&layout=compact" alt="Quantalabs Wakatime Stats"></a></p>
+
