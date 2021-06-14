@@ -18,11 +18,11 @@ and more...
 - [EpiJS v1.1.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.1.0)
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
-3. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. 🎉 Merged PR [#16](https://github.com/Quantalabs/EpiJS/pull/16) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-5. ❗️ Closed issue [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+1. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
+2. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
+4. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+5. 🎉 Merged PR [#16](https://github.com/Quantalabs/EpiJS/pull/16) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
