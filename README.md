@@ -11,11 +11,12 @@ and more...
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
+- [NCOVDashboard v1.3.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.3.0)
 - [EpiJS v1.2.1](https://github.com/Quantalabs/EpiJS/releases/tag/v1.2.1)
 - [DiffPriv v1.0.2](https://github.com/Quantalabs/DiffPriv/releases/tag/1.0.2)
 - [EpiJS v1.2.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.2.0)
 - [NCOVDashboard v1.2.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.2.0)
-- [EpiJS v1.1.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.1.0)
+
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1138](https://github.com/anuraghazra/github-readme-stats/issues/1138) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
