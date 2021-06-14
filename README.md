@@ -19,10 +19,10 @@ and more...
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
-2. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 🗣 Commented on [#8](https://github.com/Quantalabs/NCOVDashboard/issues/8) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
-4. 🗣 Commented on [#14](https://github.com/Quantalabs/EpiJS/issues/14) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-5. 🎉 Merged PR [#16](https://github.com/Quantalabs/EpiJS/pull/16) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. ❌ Closed PR [#463](https://github.com/mathdroid/covid-19-api/pull/463) in [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api)
+3. 💪 Opened PR [#1](https://github.com/Polydynamical/3d-Grapher/pull/1) in [Polydynamical/3d-Grapher](https://github.com/Polydynamical/3d-Grapher)
+4. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
+5. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
