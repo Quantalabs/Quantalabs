@@ -18,11 +18,11 @@ and more...
 - [EpiJS v1.1.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.1.0)
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#115](https://github.com/ahmadawais/corona-cli/pull/115) in [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli)
-2. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
-3. ❌ Closed PR [#463](https://github.com/mathdroid/covid-19-api/pull/463) in [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api)
-4. 💪 Opened PR [#1](https://github.com/Polydynamical/3d-Grapher/pull/1) in [Polydynamical/3d-Grapher](https://github.com/Polydynamical/3d-Grapher)
-5. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
+1. ❗️ Opened issue [#1138](https://github.com/anuraghazra/github-readme-stats/issues/1138) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 💪 Opened PR [#115](https://github.com/ahmadawais/corona-cli/pull/115) in [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli)
+3. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
+4. ❌ Closed PR [#463](https://github.com/mathdroid/covid-19-api/pull/463) in [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api)
+5. 💪 Opened PR [#1](https://github.com/Polydynamical/3d-Grapher/pull/1) in [Polydynamical/3d-Grapher](https://github.com/Polydynamical/3d-Grapher)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
