@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#64](https://github.com/epispot/epispot/pull/64) in [epispot/epispot](https://github.com/epispot/epispot)
-2. ❗️ Opened issue [#1138](https://github.com/anuraghazra/github-readme-stats/issues/1138) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 💪 Opened PR [#115](https://github.com/ahmadawais/corona-cli/pull/115) in [ahmadawais/corona-cli](https://github.com/ahmadawais/corona-cli)
-4. 🗣 Commented on [#5](https://github.com/quantum9Innovation/3d-Grapher/issues/5) in [quantum9Innovation/3d-Grapher](https://github.com/quantum9Innovation/3d-Grapher)
-5. ❌ Closed PR [#463](https://github.com/mathdroid/covid-19-api/pull/463) in [mathdroid/covid-19-api](https://github.com/mathdroid/covid-19-api)
+1. 🎉 Merged PR [#20](https://github.com/Quantalabs/EpiJS/pull/20) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. 🗣 Commented on [#64](https://github.com/epispot/epispot/issues/64) in [epispot/epispot](https://github.com/epispot/epispot)
+3. 💪 Opened PR [#20](https://github.com/Quantalabs/EpiJS/pull/20) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 💪 Opened PR [#64](https://github.com/epispot/epispot/pull/64) in [epispot/epispot](https://github.com/epispot/epispot)
+5. ❗️ Opened issue [#1138](https://github.com/anuraghazra/github-readme-stats/issues/1138) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
