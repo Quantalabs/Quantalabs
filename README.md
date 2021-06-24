@@ -19,10 +19,10 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/Quantalabs/EpiJS/issues/23) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. 🎉 Merged PR [#20](https://github.com/Quantalabs/EpiJS/pull/20) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 🗣 Commented on [#64](https://github.com/epispot/epispot/issues/64) in [epispot/epispot](https://github.com/epispot/epispot)
-4. 💪 Opened PR [#20](https://github.com/Quantalabs/EpiJS/pull/20) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+1. 🎉 Merged PR [#24](https://github.com/Quantalabs/EpiJS/pull/24) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. 🗣 Commented on [#23](https://github.com/Quantalabs/EpiJS/issues/23) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. 🎉 Merged PR [#20](https://github.com/Quantalabs/EpiJS/pull/20) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 🗣 Commented on [#64](https://github.com/epispot/epispot/issues/64) in [epispot/epispot](https://github.com/epispot/epispot)
 5. 💪 Opened PR [#64](https://github.com/epispot/epispot/pull/64) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
