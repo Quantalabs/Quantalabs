@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/Quantalabs/EpiJS/issues/28) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. ❗️ Opened issue [#29](https://github.com/Quantalabs/EpiJS/issues/29) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. ❗️ Opened issue [#28](https://github.com/Quantalabs/EpiJS/issues/28) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. 🗣 Commented on [#27](https://github.com/Quantalabs/EpiJS/issues/27) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-5. ❗️ Closed issue [#25](https://github.com/Quantalabs/EpiJS/issues/25) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+1. 🗣 Commented on [#78](https://github.com/epispot/epispot/issues/78) in [epispot/epispot](https://github.com/epispot/epispot)
+2. 🗣 Commented on [#28](https://github.com/Quantalabs/EpiJS/issues/28) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. ❗️ Opened issue [#29](https://github.com/Quantalabs/EpiJS/issues/29) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. ❗️ Opened issue [#28](https://github.com/Quantalabs/EpiJS/issues/28) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+5. 🗣 Commented on [#27](https://github.com/Quantalabs/EpiJS/issues/27) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
