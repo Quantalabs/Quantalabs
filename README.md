@@ -36,10 +36,10 @@ and more...
 
 ## Stackoverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Writing to a file in Node.JS inside an async function](https://stackoverflow.com/questions/68156725/writing-to-a-file-in-node-js-inside-an-async-function)
 - [NPM Package not publishing](https://stackoverflow.com/questions/67928415/npm-package-not-publishing)
 - [Answer by Quantalabs for Triangle angle classification](https://stackoverflow.com/questions/67845566/triangle-angle-classification/67845594#67845594)
 - [Linker for Windows x64](https://stackoverflow.com/questions/67845567/linker-for-windows-x64)
-- [Make a python file an executable](https://stackoverflow.com/questions/67781059/make-a-python-file-an-executable)
 <!-- STACKOVERFLOW:END -->
 
 ## Stats
