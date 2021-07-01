@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Quantalabs/DiffPriv/pull/30) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-2. 🎉 Merged PR [#29](https://github.com/Quantalabs/DiffPriv/pull/29) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-3. 💪 Opened PR [#29](https://github.com/Quantalabs/DiffPriv/pull/29) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-4. 🗣 Commented on [#83](https://github.com/epispot/epispot/issues/83) in [epispot/epispot](https://github.com/epispot/epispot)
-5. 🗣 Commented on [#81](https://github.com/epispot/epispot/issues/81) in [epispot/epispot](https://github.com/epispot/epispot)
+1. 🎉 Merged PR [#30](https://github.com/Quantalabs/DiffPriv/pull/30) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+2. 💪 Opened PR [#30](https://github.com/Quantalabs/DiffPriv/pull/30) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+3. 🎉 Merged PR [#29](https://github.com/Quantalabs/DiffPriv/pull/29) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+4. 💪 Opened PR [#29](https://github.com/Quantalabs/DiffPriv/pull/29) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+5. 🗣 Commented on [#83](https://github.com/epispot/epispot/issues/83) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
