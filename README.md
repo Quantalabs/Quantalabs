@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/conda-forge/diffpriv-feedstock/pull/5) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-2. 🗣 Commented on [#86](https://github.com/epispot/epispot/issues/86) in [epispot/epispot](https://github.com/epispot/epispot)
-3. 🗣 Commented on [#84](https://github.com/epispot/epispot/issues/84) in [epispot/epispot](https://github.com/epispot/epispot)
-4. 💪 Opened PR [#86](https://github.com/epispot/epispot/pull/86) in [epispot/epispot](https://github.com/epispot/epispot)
-5. ❌ Closed PR [#84](https://github.com/epispot/epispot/pull/84) in [epispot/epispot](https://github.com/epispot/epispot)
+1. 🎉 Merged PR [#88](https://github.com/epispot/epispot/pull/88) in [epispot/epispot](https://github.com/epispot/epispot)
+2. ❗️ Closed issue [#87](https://github.com/epispot/epispot/issues/87) in [epispot/epispot](https://github.com/epispot/epispot)
+3. 🗣 Commented on [#79](https://github.com/epispot/epispot/issues/79) in [epispot/epispot](https://github.com/epispot/epispot)
+4. 💪 Opened PR [#88](https://github.com/epispot/epispot/pull/88) in [epispot/epispot](https://github.com/epispot/epispot)
+5. 🗣 Commented on [#87](https://github.com/epispot/epispot/issues/87) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
