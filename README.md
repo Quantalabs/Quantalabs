@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#86](https://github.com/epispot/epispot/issues/86) in [epispot/epispot](https://github.com/epispot/epispot)
-2. 🗣 Commented on [#84](https://github.com/epispot/epispot/issues/84) in [epispot/epispot](https://github.com/epispot/epispot)
-3. 💪 Opened PR [#86](https://github.com/epispot/epispot/pull/86) in [epispot/epispot](https://github.com/epispot/epispot)
-4. ❌ Closed PR [#84](https://github.com/epispot/epispot/pull/84) in [epispot/epispot](https://github.com/epispot/epispot)
-5. 🎉 Merged PR [#30](https://github.com/Quantalabs/DiffPriv/pull/30) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+1. 🎉 Merged PR [#5](https://github.com/conda-forge/diffpriv-feedstock/pull/5) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+2. 🗣 Commented on [#86](https://github.com/epispot/epispot/issues/86) in [epispot/epispot](https://github.com/epispot/epispot)
+3. 🗣 Commented on [#84](https://github.com/epispot/epispot/issues/84) in [epispot/epispot](https://github.com/epispot/epispot)
+4. 💪 Opened PR [#86](https://github.com/epispot/epispot/pull/86) in [epispot/epispot](https://github.com/epispot/epispot)
+5. ❌ Closed PR [#84](https://github.com/epispot/epispot/pull/84) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
