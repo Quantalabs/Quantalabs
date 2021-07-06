@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/Quantalabs/EpiJS/issues/34) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. 🗣 Commented on [#35](https://github.com/Quantalabs/EpiJS/issues/35) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 🎉 Merged PR [#88](https://github.com/epispot/epispot/pull/88) in [epispot/epispot](https://github.com/epispot/epispot)
-4. ❗️ Closed issue [#87](https://github.com/epispot/epispot/issues/87) in [epispot/epispot](https://github.com/epispot/epispot)
-5. 🗣 Commented on [#79](https://github.com/epispot/epispot/issues/79) in [epispot/epispot](https://github.com/epispot/epispot)
+1. 🗣 Commented on [#2012](https://github.com/browserify/browserify/issues/2012) in [browserify/browserify](https://github.com/browserify/browserify)
+2. ❗️ Opened issue [#2012](https://github.com/browserify/browserify/issues/2012) in [browserify/browserify](https://github.com/browserify/browserify)
+3. 🗣 Commented on [#34](https://github.com/Quantalabs/EpiJS/issues/34) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 🗣 Commented on [#35](https://github.com/Quantalabs/EpiJS/issues/35) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+5. 🎉 Merged PR [#88](https://github.com/epispot/epispot/pull/88) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
