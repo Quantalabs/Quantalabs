@@ -19,11 +19,11 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/Quantalabs/EpiJS/issues/37) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. ❗️ Opened issue [#37](https://github.com/Quantalabs/EpiJS/issues/37) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 🎉 Merged PR [#36](https://github.com/Quantalabs/EpiJS/pull/36) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. 🗣 Commented on [#2012](https://github.com/browserify/browserify/issues/2012) in [browserify/browserify](https://github.com/browserify/browserify)
-5. ❗️ Opened issue [#2012](https://github.com/browserify/browserify/issues/2012) in [browserify/browserify](https://github.com/browserify/browserify)
+1. 🎉 Merged PR [#38](https://github.com/Quantalabs/EpiJS/pull/38) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. 🗣 Commented on [#37](https://github.com/Quantalabs/EpiJS/issues/37) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. ❗️ Opened issue [#37](https://github.com/Quantalabs/EpiJS/issues/37) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 🎉 Merged PR [#36](https://github.com/Quantalabs/EpiJS/pull/36) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+5. 🗣 Commented on [#2012](https://github.com/browserify/browserify/issues/2012) in [browserify/browserify](https://github.com/browserify/browserify)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
