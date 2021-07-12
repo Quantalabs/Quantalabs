@@ -19,11 +19,6 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/Quantalabs/EpiJS/pull/51) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. ❗️ Closed issue [#50](https://github.com/Quantalabs/EpiJS/issues/50) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 💪 Opened PR [#51](https://github.com/Quantalabs/EpiJS/pull/51) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. ❗️ Opened issue [#50](https://github.com/Quantalabs/EpiJS/issues/50) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-5. 🎉 Merged PR [#49](https://github.com/Quantalabs/EpiJS/pull/49) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
