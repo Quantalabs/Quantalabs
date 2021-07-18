@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/Quantalabs/EpiJS/pull/61) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. 💪 Opened PR [#61](https://github.com/Quantalabs/EpiJS/pull/61) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 🗣 Commented on [#775](https://github.com/cdnjs/packages/issues/775) in [cdnjs/packages](https://github.com/cdnjs/packages)
-4. 💪 Opened PR [#780](https://github.com/cdnjs/packages/pull/780) in [cdnjs/packages](https://github.com/cdnjs/packages)
-5. 🗣 Commented on [#775](https://github.com/cdnjs/packages/issues/775) in [cdnjs/packages](https://github.com/cdnjs/packages)
-6. ❗️ Opened issue [#59](https://github.com/Quantalabs/EpiJS/issues/59) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-7. ❌ Closed PR [#424](https://github.com/soroushchehresa/awesome-coronavirus/pull/424) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-8. 💪 Opened PR [#424](https://github.com/soroushchehresa/awesome-coronavirus/pull/424) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
-9. 🎉 Merged PR [#58](https://github.com/Quantalabs/EpiJS/pull/58) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-10. 💪 Opened PR [#58](https://github.com/Quantalabs/EpiJS/pull/58) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+1. 🗣 Commented on [#59](https://github.com/Quantalabs/EpiJS/issues/59) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. 🎉 Merged PR [#61](https://github.com/Quantalabs/EpiJS/pull/61) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. 💪 Opened PR [#61](https://github.com/Quantalabs/EpiJS/pull/61) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 🗣 Commented on [#775](https://github.com/cdnjs/packages/issues/775) in [cdnjs/packages](https://github.com/cdnjs/packages)
+5. 💪 Opened PR [#780](https://github.com/cdnjs/packages/pull/780) in [cdnjs/packages](https://github.com/cdnjs/packages)
+6. 🗣 Commented on [#775](https://github.com/cdnjs/packages/issues/775) in [cdnjs/packages](https://github.com/cdnjs/packages)
+7. ❗️ Opened issue [#59](https://github.com/Quantalabs/EpiJS/issues/59) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+8. ❌ Closed PR [#424](https://github.com/soroushchehresa/awesome-coronavirus/pull/424) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+9. 💪 Opened PR [#424](https://github.com/soroushchehresa/awesome-coronavirus/pull/424) in [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)
+10. 🎉 Merged PR [#58](https://github.com/Quantalabs/EpiJS/pull/58) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
