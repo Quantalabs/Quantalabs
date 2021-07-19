@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/Quantalabs/EpiJS/issues/70) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-2. 🎉 Merged PR [#69](https://github.com/Quantalabs/EpiJS/pull/69) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-3. 💪 Opened PR [#69](https://github.com/Quantalabs/EpiJS/pull/69) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-4. 🎉 Merged PR [#68](https://github.com/Quantalabs/EpiJS/pull/68) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-5. 💪 Opened PR [#68](https://github.com/Quantalabs/EpiJS/pull/68) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-6. 🗣 Commented on [#90](https://github.com/epispot/epispot/issues/90) in [epispot/epispot](https://github.com/epispot/epispot)
-7. 🗣 Commented on [#91](https://github.com/epispot/epispot/issues/91) in [epispot/epispot](https://github.com/epispot/epispot)
-8. 💪 Opened PR [#91](https://github.com/epispot/epispot/pull/91) in [epispot/epispot](https://github.com/epispot/epispot)
-9. 🎉 Merged PR [#67](https://github.com/Quantalabs/EpiJS/pull/67) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
-10. 💪 Opened PR [#67](https://github.com/Quantalabs/EpiJS/pull/67) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+1. 🗣 Commented on [#70](https://github.com/Quantalabs/EpiJS/issues/70) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+2. ❗️ Opened issue [#70](https://github.com/Quantalabs/EpiJS/issues/70) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+3. 🎉 Merged PR [#69](https://github.com/Quantalabs/EpiJS/pull/69) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+4. 💪 Opened PR [#69](https://github.com/Quantalabs/EpiJS/pull/69) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+5. 🎉 Merged PR [#68](https://github.com/Quantalabs/EpiJS/pull/68) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+6. 💪 Opened PR [#68](https://github.com/Quantalabs/EpiJS/pull/68) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
+7. 🗣 Commented on [#90](https://github.com/epispot/epispot/issues/90) in [epispot/epispot](https://github.com/epispot/epispot)
+8. 🗣 Commented on [#91](https://github.com/epispot/epispot/issues/91) in [epispot/epispot](https://github.com/epispot/epispot)
+9. 💪 Opened PR [#91](https://github.com/epispot/epispot/pull/91) in [epispot/epispot](https://github.com/epispot/epispot)
+10. 🎉 Merged PR [#67](https://github.com/Quantalabs/EpiJS/pull/67) in [Quantalabs/EpiJS](https://github.com/Quantalabs/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
