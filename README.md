@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
 
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
-<p align='center'><a href="https://github.com/Quantalabs/EpiJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=EpiJS" alt="Readme Card"></a>
+<p align='center'><a href="https://github.com/Quantalabs/EpiJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=epispot&amp;repo=EpiJS" alt="Readme Card"></a>
 <a href="https://github.com/Quantalabs/NCOVDashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=NCOVDashboard" alt="Readme Card"></a></p>
 
 
@@ -11,10 +11,10 @@ and more...
 - 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
-- [EpiJS v2.0.0](https://github.com/Quantalabs/EpiJS/releases/tag/v2.0.0)
+- [EpiJS v2.0.0](https://github.com/epispot/EpiJS/releases/tag/v2.0.0)
 - [DiffPriv v1.0.3](https://github.com/Quantalabs/DiffPriv/releases/tag/v1.0.3)
-- [EpiJS v1.3.1](https://github.com/Quantalabs/EpiJS/releases/tag/v1.3.1)
-- [EpiJS v1.3.0](https://github.com/Quantalabs/EpiJS/releases/tag/v1.3.0)
+- [EpiJS v1.3.1](https://github.com/epispot/EpiJS/releases/tag/v1.3.1)
+- [EpiJS v1.3.0](https://github.com/epispot/EpiJS/releases/tag/v1.3.0)
 - [NCOVDashboard v1.3.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.3.0)
 
 ## GitHub Activity
