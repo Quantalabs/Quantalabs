@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 💪 Opened PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 💪 Opened PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. ❗️ Opened issue [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. ❗️ Opened issue [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 🎉 Merged PR [#82](https://github.com/epispot/EpiJS/pull/82) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 💪 Opened PR [#82](https://github.com/epispot/EpiJS/pull/82) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 💪 Opened PR [#800](https://github.com/cdnjs/packages/pull/800) in [cdnjs/packages](https://github.com/cdnjs/packages)
-10. 💪 Opened PR [#6174](https://github.com/js-org/js.org/pull/6174) in [js-org/js.org](https://github.com/js-org/js.org)
+1. ❗️ Closed issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 🎉 Merged PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 💪 Opened PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. ❗️ Opened issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 💪 Opened PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🎉 Merged PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 💪 Opened PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. ❗️ Opened issue [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. ❗️ Opened issue [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
