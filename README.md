@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#91](https://github.com/epispot/EpiJS/pull/91) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. ❗️ Closed issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 💪 Opened PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. ❗️ Opened issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🎉 Merged PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 💪 Opened PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 🎉 Merged PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 💪 Opened PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-10. ❗️ Opened issue [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 💪 Opened PR [#31](https://github.com/Quantalabs/DiffPriv/pull/31) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+2. 🎉 Merged PR [#91](https://github.com/epispot/EpiJS/pull/91) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. ❗️ Closed issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 🎉 Merged PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 💪 Opened PR [#89](https://github.com/epispot/EpiJS/pull/89) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. ❗️ Opened issue [#88](https://github.com/epispot/EpiJS/issues/88) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🎉 Merged PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 💪 Opened PR [#86](https://github.com/epispot/EpiJS/pull/86) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. 🎉 Merged PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 💪 Opened PR [#85](https://github.com/epispot/EpiJS/pull/85) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
