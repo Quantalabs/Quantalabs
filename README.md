@@ -18,16 +18,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#97](https://github.com/epispot/EpiJS/pull/97) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 💪 Opened PR [#97](https://github.com/epispot/EpiJS/pull/97) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#96](https://github.com/epispot/EpiJS/pull/96) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 💪 Opened PR [#96](https://github.com/epispot/EpiJS/pull/96) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. ❗️ Opened issue [#34](https://github.com/Quantalabs/DiffPriv/issues/34) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-6. 🎉 Merged PR [#32](https://github.com/Quantalabs/DiffPriv/pull/32) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-7. 💪 Opened PR [#32](https://github.com/Quantalabs/DiffPriv/pull/32) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-8. 🎉 Merged PR [#31](https://github.com/Quantalabs/DiffPriv/pull/31) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-9. 💪 Opened PR [#31](https://github.com/Quantalabs/DiffPriv/pull/31) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-10. 🎉 Merged PR [#91](https://github.com/epispot/EpiJS/pull/91) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 🎉 Merged PR [#99](https://github.com/epispot/EpiJS/pull/99) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 💪 Opened PR [#99](https://github.com/epispot/EpiJS/pull/99) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 🎉 Merged PR [#97](https://github.com/epispot/EpiJS/pull/97) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 💪 Opened PR [#97](https://github.com/epispot/EpiJS/pull/97) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#96](https://github.com/epispot/EpiJS/pull/96) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 💪 Opened PR [#96](https://github.com/epispot/EpiJS/pull/96) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. ❗️ Opened issue [#34](https://github.com/Quantalabs/DiffPriv/issues/34) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+8. 🎉 Merged PR [#32](https://github.com/Quantalabs/DiffPriv/pull/32) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+9. 💪 Opened PR [#32](https://github.com/Quantalabs/DiffPriv/pull/32) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+10. 🎉 Merged PR [#31](https://github.com/Quantalabs/DiffPriv/pull/31) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
