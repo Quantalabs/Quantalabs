@@ -41,5 +41,5 @@ and more...
 
 
 ## Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantalabs&amp;hide=css,html,scss&layout=compact" alt="Language Stats"><br>
+<p align="center"><img src="https://github.com/Quantalabs/github-stats/raw/master/generated/languages.svg" alt="Language Stats"><br>
 
