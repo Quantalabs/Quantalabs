@@ -8,7 +8,7 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 
 and more...
 
-- 📜 View my blog **at https://qlabs.netlify.app**, or on [DEV](https://dev.to/Quantalabs) if you prefer
+- 📜 View my blog **at https://quantalabs.github.io/blog**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
 - [NCOVDashboard v1.4.0](https://github.com/Quantalabs/NCOVDashboard/releases/tag/v1.4.0)
