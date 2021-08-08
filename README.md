@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/creamcropdev/creamcrop/pull/12) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 💪 Opened PR [#12](https://github.com/creamcropdev/creamcrop/pull/12) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🎉 Merged PR [#11](https://github.com/creamcropdev/creamcrop/pull/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-4. 🗣 Commented on [#11](https://github.com/creamcropdev/creamcrop/issues/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-5. 💪 Opened PR [#11](https://github.com/creamcropdev/creamcrop/pull/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-6. 🎉 Merged PR [#10](https://github.com/Quantalabs/NCOVDashboard/pull/10) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
-7. 💪 Opened PR [#10](https://github.com/Quantalabs/NCOVDashboard/pull/10) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
-8. 🎉 Merged PR [#9](https://github.com/creamcropdev/creamcrop/pull/9) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-9. 💪 Opened PR [#9](https://github.com/creamcropdev/creamcrop/pull/9) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#7](https://github.com/creamcropdev/creamcrop/pull/7) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+1. 🎉 Merged PR [#15](https://github.com/creamcropdev/creamcrop/pull/15) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+2. 💪 Opened PR [#15](https://github.com/creamcropdev/creamcrop/pull/15) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 🎉 Merged PR [#14](https://github.com/creamcropdev/creamcrop/pull/14) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 💪 Opened PR [#14](https://github.com/creamcropdev/creamcrop/pull/14) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+5. 🎉 Merged PR [#12](https://github.com/creamcropdev/creamcrop/pull/12) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+6. 💪 Opened PR [#12](https://github.com/creamcropdev/creamcrop/pull/12) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+7. 🎉 Merged PR [#11](https://github.com/creamcropdev/creamcrop/pull/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+8. 🗣 Commented on [#11](https://github.com/creamcropdev/creamcrop/issues/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+9. 💪 Opened PR [#11](https://github.com/creamcropdev/creamcrop/pull/11) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+10. 🎉 Merged PR [#10](https://github.com/Quantalabs/NCOVDashboard/pull/10) in [Quantalabs/NCOVDashboard](https://github.com/Quantalabs/NCOVDashboard)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
