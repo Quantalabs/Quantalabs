@@ -11,11 +11,11 @@ and more...
 - 📜 View my blog **at https://quantalabs.github.io/blog**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
+- [Shelf v1.0.0-alpha1](https://github.com/ShelfDev/shelf/releases/tag/v1.0.0-alpha1)
 - [Creamcrop v0.9.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.9.0)
 - [Creamcrop v0.8.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.8.0)
 - [Creamcrop v0.7.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.7.0)
 - [Creamcrop v0.6.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.6.0)
-- [Creamcrop v0.5.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.5.0)
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
