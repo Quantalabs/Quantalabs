@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/creamcropdev/creamcrop/pull/52) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 💪 Opened PR [#52](https://github.com/creamcropdev/creamcrop/pull/52) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🎉 Merged PR [#6](https://github.com/conda-forge/diffpriv-feedstock/pull/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-4. 🗣 Commented on [#6](https://github.com/conda-forge/diffpriv-feedstock/issues/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+1. 🎉 Merged PR [#53](https://github.com/creamcropdev/creamcrop/pull/53) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+2. 🎉 Merged PR [#52](https://github.com/creamcropdev/creamcrop/pull/52) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 💪 Opened PR [#52](https://github.com/creamcropdev/creamcrop/pull/52) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🎉 Merged PR [#6](https://github.com/conda-forge/diffpriv-feedstock/pull/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
 5. 🗣 Commented on [#6](https://github.com/conda-forge/diffpriv-feedstock/issues/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-6. 💪 Opened PR [#6](https://github.com/conda-forge/diffpriv-feedstock/pull/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-7. 🎉 Merged PR [#35](https://github.com/Quantalabs/DiffPriv/pull/35) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-8. ❌ Closed PR [#51](https://github.com/creamcropdev/creamcrop/pull/51) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-9. 💪 Opened PR [#51](https://github.com/creamcropdev/creamcrop/pull/51) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#49](https://github.com/creamcropdev/creamcrop/pull/49) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+6. 🗣 Commented on [#6](https://github.com/conda-forge/diffpriv-feedstock/issues/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+7. 💪 Opened PR [#6](https://github.com/conda-forge/diffpriv-feedstock/pull/6) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+8. 🎉 Merged PR [#35](https://github.com/Quantalabs/DiffPriv/pull/35) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+9. ❌ Closed PR [#51](https://github.com/creamcropdev/creamcrop/pull/51) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+10. 💪 Opened PR [#51](https://github.com/creamcropdev/creamcrop/pull/51) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
