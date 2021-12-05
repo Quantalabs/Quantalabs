@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#111](https://github.com/epispot/EpiJS/pull/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 🎉 Merged PR [#54](https://github.com/creamcropdev/creamcrop/pull/54) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🗣 Commented on [#111](https://github.com/epispot/EpiJS/issues/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#112](https://github.com/epispot/EpiJS/pull/112) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. 💪 Opened PR [#121](https://github.com/epispot/epispot/pull/121) in [epispot/epispot](https://github.com/epispot/epispot)
-6. 🎉 Merged PR [#120](https://github.com/epispot/epispot/pull/120) in [epispot/epispot](https://github.com/epispot/epispot)
-7. 💪 Opened PR [#120](https://github.com/epispot/epispot/pull/120) in [epispot/epispot](https://github.com/epispot/epispot)
-8. 🗣 Commented on [#113](https://github.com/epispot/epispot/issues/113) in [epispot/epispot](https://github.com/epispot/epispot)
-9. 🎉 Merged PR [#53](https://github.com/creamcropdev/creamcrop/pull/53) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#52](https://github.com/creamcropdev/creamcrop/pull/52) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+1. 🗣 Commented on [#34](https://github.com/Quantalabs/DiffPriv/issues/34) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+2. ❌ Closed PR [#111](https://github.com/epispot/EpiJS/pull/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 🎉 Merged PR [#54](https://github.com/creamcropdev/creamcrop/pull/54) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🗣 Commented on [#111](https://github.com/epispot/EpiJS/issues/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#112](https://github.com/epispot/EpiJS/pull/112) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 💪 Opened PR [#121](https://github.com/epispot/epispot/pull/121) in [epispot/epispot](https://github.com/epispot/epispot)
+7. 🎉 Merged PR [#120](https://github.com/epispot/epispot/pull/120) in [epispot/epispot](https://github.com/epispot/epispot)
+8. 💪 Opened PR [#120](https://github.com/epispot/epispot/pull/120) in [epispot/epispot](https://github.com/epispot/epispot)
+9. 🗣 Commented on [#113](https://github.com/epispot/epispot/issues/113) in [epispot/epispot](https://github.com/epispot/epispot)
+10. 🎉 Merged PR [#53](https://github.com/creamcropdev/creamcrop/pull/53) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
