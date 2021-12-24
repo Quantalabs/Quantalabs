@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/creamcropdev/creamcrop/pull/57) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 🎉 Merged PR [#56](https://github.com/creamcropdev/creamcrop/pull/56) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🎉 Merged PR [#113](https://github.com/epispot/EpiJS/pull/113) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#7](https://github.com/conda-forge/diffpriv-feedstock/pull/7) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-5. 💪 Opened PR [#7](https://github.com/conda-forge/diffpriv-feedstock/pull/7) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-6. 🗣 Commented on [#34](https://github.com/Quantalabs/DiffPriv/issues/34) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
-7. ❌ Closed PR [#111](https://github.com/epispot/EpiJS/pull/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 🎉 Merged PR [#54](https://github.com/creamcropdev/creamcrop/pull/54) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-9. 🗣 Commented on [#111](https://github.com/epispot/EpiJS/issues/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-10. 🎉 Merged PR [#112](https://github.com/epispot/EpiJS/pull/112) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 🎉 Merged PR [#114](https://github.com/epispot/EpiJS/pull/114) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 🎉 Merged PR [#58](https://github.com/creamcropdev/creamcrop/pull/58) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 🎉 Merged PR [#57](https://github.com/creamcropdev/creamcrop/pull/57) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🎉 Merged PR [#56](https://github.com/creamcropdev/creamcrop/pull/56) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+5. 🎉 Merged PR [#113](https://github.com/epispot/EpiJS/pull/113) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 🎉 Merged PR [#7](https://github.com/conda-forge/diffpriv-feedstock/pull/7) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+7. 💪 Opened PR [#7](https://github.com/conda-forge/diffpriv-feedstock/pull/7) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+8. 🗣 Commented on [#34](https://github.com/Quantalabs/DiffPriv/issues/34) in [Quantalabs/DiffPriv](https://github.com/Quantalabs/DiffPriv)
+9. ❌ Closed PR [#111](https://github.com/epispot/EpiJS/pull/111) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 🎉 Merged PR [#54](https://github.com/creamcropdev/creamcrop/pull/54) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
