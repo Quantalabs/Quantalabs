@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#137](https://github.com/epispot/epispot/issues/137) in [epispot/epispot](https://github.com/epispot/epispot)
-2. 💪 Opened PR [#142](https://github.com/epispot/epispot/pull/142) in [epispot/epispot](https://github.com/epispot/epispot)
-3. ❗️ Reopened issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
-4. ❗️ Closed issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
-5. 🗣 Commented on [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
-6. 🗣 Commented on [#138](https://github.com/epispot/epispot/issues/138) in [epispot/epispot](https://github.com/epispot/epispot)
-7. 🗣 Commented on [#137](https://github.com/epispot/epispot/issues/137) in [epispot/epispot](https://github.com/epispot/epispot)
-8. ❗️ Opened issue [#141](https://github.com/epispot/epispot/issues/141) in [epispot/epispot](https://github.com/epispot/epispot)
-9. ❗️ Opened issue [#140](https://github.com/epispot/epispot/issues/140) in [epispot/epispot](https://github.com/epispot/epispot)
-10. ❗️ Opened issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
+1. 🎉 Merged PR [#142](https://github.com/epispot/epispot/pull/142) in [epispot/epispot](https://github.com/epispot/epispot)
+2. ❗️ Closed issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
+3. 🗣 Commented on [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. ❗️ Opened issue [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🎉 Merged PR [#8](https://github.com/conda-forge/diffpriv-feedstock/pull/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+8. 🗣 Commented on [#8](https://github.com/conda-forge/diffpriv-feedstock/issues/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+9. 💪 Opened PR [#8](https://github.com/conda-forge/diffpriv-feedstock/pull/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+10. 🗣 Commented on [#137](https://github.com/epispot/epispot/issues/137) in [epispot/epispot](https://github.com/epispot/epispot)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
