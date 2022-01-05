@@ -21,14 +21,14 @@ and more...
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 2. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#142](https://github.com/epispot/epispot/pull/142) in [epispot/epispot](https://github.com/epispot/epispot)
-4. ❗️ Closed issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
-5. 🗣 Commented on [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. ❗️ Opened issue [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 🎉 Merged PR [#8](https://github.com/conda-forge/diffpriv-feedstock/pull/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-10. 🗣 Commented on [#8](https://github.com/conda-forge/diffpriv-feedstock/issues/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+3. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 🎉 Merged PR [#142](https://github.com/epispot/epispot/pull/142) in [epispot/epispot](https://github.com/epispot/epispot)
+5. ❗️ Closed issue [#139](https://github.com/epispot/epispot/issues/139) in [epispot/epispot](https://github.com/epispot/epispot)
+6. 🗣 Commented on [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. ❗️ Opened issue [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 🎉 Merged PR [#8](https://github.com/conda-forge/diffpriv-feedstock/pull/8) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
