@@ -19,16 +19,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 🗣 Commented on [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. ❗️ Opened issue [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 🗣 Commented on [#118](https://github.com/epispot/EpiJS/issues/118) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. ❗️ Opened issue [#118](https://github.com/epispot/EpiJS/issues/118) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 4. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. 🎉 Merged PR [#116](https://github.com/epispot/EpiJS/pull/116) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. ❗️ Closed issue [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 💪 Opened PR [#116](https://github.com/epispot/EpiJS/pull/116) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 🗣 Commented on [#138](https://github.com/epispot/epispot/issues/138) in [epispot/epispot](https://github.com/epispot/epispot)
-10. 🗣 Commented on [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 🗣 Commented on [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. ❗️ Opened issue [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 🗣 Commented on [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. 🎉 Merged PR [#116](https://github.com/epispot/EpiJS/pull/116) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. ❗️ Closed issue [#84](https://github.com/epispot/EpiJS/issues/84) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
