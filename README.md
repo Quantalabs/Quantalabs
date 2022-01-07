@@ -1,6 +1,4 @@
-<h1 align="center">Hi there 👋, I'm QLabs </h1>
-<img src="https://i.ibb.co/mbr1j6p/Qlabs.png" width="1000px">
-
+<img src="header.png">
 I'm an avid developer, musician, and hobbyist. Some of my projects include:
 <p align='center'><a href="https://github.com/Quantalabs/EpiJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=epispot&amp;repo=EpiJS" alt="Readme Card"></a>
 <a href="https://github.com/Quantalabs/NCOVDashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=NCOVDashboard" alt="Readme Card"></a></p>
