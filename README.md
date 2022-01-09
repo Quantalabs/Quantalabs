@@ -17,16 +17,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#123](https://github.com/epispot/EpiJS/pull/123) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. ❗️ Opened issue [#121](https://github.com/epispot/EpiJS/issues/121) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 💪 Opened PR [#10](https://github.com/conda-forge/diffpriv-feedstock/pull/10) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-4. ❌ Closed PR [#9](https://github.com/conda-forge/diffpriv-feedstock/pull/9) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
-5. 🎉 Merged PR [#119](https://github.com/epispot/EpiJS/pull/119) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. ❗️ Closed issue [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. ❗️ Closed issue [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. ❗️ Closed issue [#118](https://github.com/epispot/EpiJS/issues/118) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. ❗️ Closed issue [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-10. 💪 Opened PR [#9](https://github.com/conda-forge/diffpriv-feedstock/pull/9) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+1. 🎉 Merged PR [#123](https://github.com/epispot/EpiJS/pull/123) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 💪 Opened PR [#123](https://github.com/epispot/EpiJS/pull/123) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. ❗️ Opened issue [#121](https://github.com/epispot/EpiJS/issues/121) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 💪 Opened PR [#10](https://github.com/conda-forge/diffpriv-feedstock/pull/10) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+5. ❌ Closed PR [#9](https://github.com/conda-forge/diffpriv-feedstock/pull/9) in [conda-forge/diffpriv-feedstock](https://github.com/conda-forge/diffpriv-feedstock)
+6. 🎉 Merged PR [#119](https://github.com/epispot/EpiJS/pull/119) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. ❗️ Closed issue [#83](https://github.com/epispot/EpiJS/issues/83) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. ❗️ Closed issue [#117](https://github.com/epispot/EpiJS/issues/117) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. ❗️ Closed issue [#118](https://github.com/epispot/EpiJS/issues/118) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. ❗️ Closed issue [#115](https://github.com/epispot/EpiJS/issues/115) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
