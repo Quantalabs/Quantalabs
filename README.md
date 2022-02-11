@@ -17,16 +17,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/creamcropdev/creamcrop/pull/62) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 🎉 Merged PR [#130](https://github.com/epispot/EpiJS/pull/130) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. ❗️ Closed issue [#121](https://github.com/epispot/EpiJS/issues/121) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#61](https://github.com/creamcropdev/creamcrop/pull/61) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-5. 💪 Opened PR [#130](https://github.com/epispot/EpiJS/pull/130) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🎉 Merged PR [#128](https://github.com/epispot/EpiJS/pull/128) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 🎉 Merged PR [#129](https://github.com/epispot/EpiJS/pull/129) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 🎉 Merged PR [#2](https://github.com/Quantalabs/Snowio/pull/2) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
-9. 🎉 Merged PR [#1](https://github.com/Quantalabs/Snowio/pull/1) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
-10. 🗣 Commented on [#138](https://github.com/epispot/epispot/issues/138) in [epispot/epispot](https://github.com/epispot/epispot)
+1. 🎉 Merged PR [#133](https://github.com/epispot/EpiJS/pull/133) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 🎉 Merged PR [#62](https://github.com/creamcropdev/creamcrop/pull/62) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 🎉 Merged PR [#130](https://github.com/epispot/EpiJS/pull/130) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. ❗️ Closed issue [#121](https://github.com/epispot/EpiJS/issues/121) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#61](https://github.com/creamcropdev/creamcrop/pull/61) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+6. 💪 Opened PR [#130](https://github.com/epispot/EpiJS/pull/130) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🎉 Merged PR [#128](https://github.com/epispot/EpiJS/pull/128) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 🎉 Merged PR [#129](https://github.com/epispot/EpiJS/pull/129) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. 🎉 Merged PR [#2](https://github.com/Quantalabs/Snowio/pull/2) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
+10. 🎉 Merged PR [#1](https://github.com/Quantalabs/Snowio/pull/1) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
