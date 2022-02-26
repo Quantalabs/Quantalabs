@@ -6,7 +6,7 @@ I'm an avid developer, musician, and hobbyist. Some of my projects include:
 
 and more...
 
-- 📜 View my blog **at https://quantalabs.github.io/blog**, or on [DEV](https://dev.to/Quantalabs) if you prefer
+- 📜 View my blog, the Foo-Bar **at https://quantalabs.github.io/**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
 ## Recent Releases
 - [DiffPriv v2a1](https://github.com/Quantalabs/DiffPriv/releases/tag/v2.0.0-alpha1)
