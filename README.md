@@ -17,16 +17,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 💪 Opened PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#3](https://github.com/Quantalabs/Snowio/pull/3) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
-4. ❗️ Opened issue [#3](https://github.com/Quantalabs/pastebin/issues/3) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-5. ❗️ Closed issue [#1](https://github.com/Quantalabs/pastebin/issues/1) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-6. 🗣 Commented on [#1](https://github.com/Quantalabs/pastebin/issues/1) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-7. ❗️ Closed issue [#2](https://github.com/Quantalabs/pastebin/issues/2) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-8. 🗣 Commented on [#2](https://github.com/Quantalabs/pastebin/issues/2) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-9. 🎉 Merged PR [#67](https://github.com/creamcropdev/creamcrop/pull/67) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#66](https://github.com/creamcropdev/creamcrop/pull/66) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+1. 🗣 Commented on [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. ❗️ Opened issue [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 🎉 Merged PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 💪 Opened PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#3](https://github.com/Quantalabs/Snowio/pull/3) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
+6. ❗️ Opened issue [#3](https://github.com/Quantalabs/pastebin/issues/3) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
+7. ❗️ Closed issue [#1](https://github.com/Quantalabs/pastebin/issues/1) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
+8. 🗣 Commented on [#1](https://github.com/Quantalabs/pastebin/issues/1) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
+9. ❗️ Closed issue [#2](https://github.com/Quantalabs/pastebin/issues/2) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
+10. 🗣 Commented on [#2](https://github.com/Quantalabs/pastebin/issues/2) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
