@@ -17,16 +17,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 🎉 Merged PR [#144](https://github.com/epispot/EpiJS/pull/144) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 💪 Opened PR [#144](https://github.com/epispot/EpiJS/pull/144) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🗣 Commented on [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. ❗️ Opened issue [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🎉 Merged PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 💪 Opened PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-8. 🎉 Merged PR [#3](https://github.com/Quantalabs/Snowio/pull/3) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
-9. ❗️ Opened issue [#3](https://github.com/Quantalabs/pastebin/issues/3) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
-10. ❗️ Closed issue [#1](https://github.com/Quantalabs/pastebin/issues/1) in [Quantalabs/pastebin](https://github.com/Quantalabs/pastebin)
+1. 🎉 Merged PR [#69](https://github.com/creamcropdev/creamcrop/pull/69) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+2. 🎉 Merged PR [#68](https://github.com/creamcropdev/creamcrop/pull/68) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. ❗️ Closed issue [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+4. 🎉 Merged PR [#144](https://github.com/epispot/EpiJS/pull/144) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 💪 Opened PR [#144](https://github.com/epispot/EpiJS/pull/144) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 🗣 Commented on [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. ❗️ Opened issue [#143](https://github.com/epispot/EpiJS/issues/143) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+8. 🎉 Merged PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+9. 💪 Opened PR [#142](https://github.com/epispot/EpiJS/pull/142) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 🎉 Merged PR [#3](https://github.com/Quantalabs/Snowio/pull/3) in [Quantalabs/Snowio](https://github.com/Quantalabs/Snowio)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
