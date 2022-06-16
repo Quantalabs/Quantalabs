@@ -17,16 +17,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#163](https://github.com/epispot/EpiJS/pull/163) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-2. 🗣 Commented on [#84](https://github.com/creamcropdev/creamcrop/issues/84) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🎉 Merged PR [#162](https://github.com/epispot/EpiJS/pull/162) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#80](https://github.com/creamcropdev/creamcrop/pull/80) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-5. 🎉 Merged PR [#160](https://github.com/epispot/epispot/pull/160) in [epispot/epispot](https://github.com/epispot/epispot)
-6. 🎉 Merged PR [#159](https://github.com/epispot/epispot/pull/159) in [epispot/epispot](https://github.com/epispot/epispot)
-7. 🎉 Merged PR [#162](https://github.com/epispot/epispot/pull/162) in [epispot/epispot](https://github.com/epispot/epispot)
-8. 🎉 Merged PR [#157](https://github.com/epispot/EpiJS/pull/157) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 🎉 Merged PR [#156](https://github.com/epispot/EpiJS/pull/156) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-10. 💪 Opened PR [#156](https://github.com/epispot/EpiJS/pull/156) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 💪 Opened PR [#2](https://github.com/quantum9Innovation/hulet/pull/2) in [quantum9Innovation/hulet](https://github.com/quantum9Innovation/hulet)
+2. 🎉 Merged PR [#163](https://github.com/epispot/EpiJS/pull/163) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+3. 🗣 Commented on [#84](https://github.com/creamcropdev/creamcrop/issues/84) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🎉 Merged PR [#162](https://github.com/epispot/EpiJS/pull/162) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#80](https://github.com/creamcropdev/creamcrop/pull/80) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+6. 🎉 Merged PR [#160](https://github.com/epispot/epispot/pull/160) in [epispot/epispot](https://github.com/epispot/epispot)
+7. 🎉 Merged PR [#159](https://github.com/epispot/epispot/pull/159) in [epispot/epispot](https://github.com/epispot/epispot)
+8. 🎉 Merged PR [#162](https://github.com/epispot/epispot/pull/162) in [epispot/epispot](https://github.com/epispot/epispot)
+9. 🎉 Merged PR [#157](https://github.com/epispot/EpiJS/pull/157) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 🎉 Merged PR [#156](https://github.com/epispot/EpiJS/pull/156) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
