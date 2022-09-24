@@ -8,13 +8,6 @@ and more...
 
 - 📜 View my blog, the Foo-Bar **at https://quantalabs.github.io/**, or on [DEV](https://dev.to/Quantalabs) if you prefer
 
-## Recent Releases
-- [DiffPriv v2a1](https://github.com/Quantalabs/DiffPriv/releases/tag/v2.0.0-alpha1)
-- [Creamcrop v0.10.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.10.0)
-- [Creamcrop v0.9.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.9.0)
-- [Creamcrop v0.8.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.8.0)
-- [Creamcrop v0.7.0](https://github.com/creamcropdev/creamcrop/releases/tag/v0.7.0)
-
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#175](https://github.com/epispot/EpiJS/pull/175) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
