@@ -10,16 +10,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
-2. ❗️ Closed issue [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
-3. ❗️ Opened issue [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
-4. 🎉 Merged PR [#256](https://github.com/epispot/EpiJS/pull/256) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-5. 🎉 Merged PR [#255](https://github.com/epispot/EpiJS/pull/255) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🎉 Merged PR [#133](https://github.com/creamcropdev/creamcrop/pull/133) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-7. 🎉 Merged PR [#9](https://github.com/Quantalabs/California-Election-Viewer/pull/9) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-8. 🎉 Merged PR [#257](https://github.com/epispot/EpiJS/pull/257) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-9. 🎉 Merged PR [#131](https://github.com/creamcropdev/creamcrop/pull/131) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#248](https://github.com/epispot/EpiJS/pull/248) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+1. 🎉 Merged PR [#261](https://github.com/epispot/EpiJS/pull/261) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+2. 🎉 Merged PR [#134](https://github.com/creamcropdev/creamcrop/pull/134) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 🎉 Merged PR [#135](https://github.com/creamcropdev/creamcrop/pull/135) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🎉 Merged PR [#13](https://github.com/Quantalabs/California-Election-Viewer/pull/13) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+5. 🗣 Commented on [#10](https://github.com/Quantalabs/California-Election-Viewer/issues/10) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+6. 🎉 Merged PR [#11](https://github.com/Quantalabs/California-Election-Viewer/pull/11) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+7. 🎉 Merged PR [#12](https://github.com/Quantalabs/California-Election-Viewer/pull/12) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+8. 🗣 Commented on [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
+9. ❗️ Closed issue [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
+10. ❗️ Opened issue [#4766](https://github.com/beetbox/beets/issues/4766) in [beetbox/beets](https://github.com/beetbox/beets)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
