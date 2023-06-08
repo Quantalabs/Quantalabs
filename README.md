@@ -10,16 +10,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#140](https://github.com/creamcropdev/creamcrop/pull/140) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 🎉 Merged PR [#139](https://github.com/creamcropdev/creamcrop/pull/139) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-3. 🎉 Merged PR [#264](https://github.com/epispot/EpiJS/pull/264) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#15](https://github.com/Quantalabs/California-Election-Viewer/pull/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-5. 🗣 Commented on [#15](https://github.com/Quantalabs/California-Election-Viewer/issues/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+1. 🎉 Merged PR [#18](https://github.com/Quantalabs/California-Election-Viewer/pull/18) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+2. 🎉 Merged PR [#140](https://github.com/creamcropdev/creamcrop/pull/140) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+3. 🎉 Merged PR [#139](https://github.com/creamcropdev/creamcrop/pull/139) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+4. 🎉 Merged PR [#264](https://github.com/epispot/EpiJS/pull/264) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+5. 🎉 Merged PR [#15](https://github.com/Quantalabs/California-Election-Viewer/pull/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 6. 🗣 Commented on [#15](https://github.com/Quantalabs/California-Election-Viewer/issues/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 7. 🗣 Commented on [#15](https://github.com/Quantalabs/California-Election-Viewer/issues/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 8. 🗣 Commented on [#15](https://github.com/Quantalabs/California-Election-Viewer/issues/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-9. 🎉 Merged PR [#16](https://github.com/Quantalabs/California-Election-Viewer/pull/16) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-10. 🗣 Commented on [#16](https://github.com/Quantalabs/California-Election-Viewer/issues/16) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+9. 🗣 Commented on [#15](https://github.com/Quantalabs/California-Election-Viewer/issues/15) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+10. 🎉 Merged PR [#16](https://github.com/Quantalabs/California-Election-Viewer/pull/16) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
