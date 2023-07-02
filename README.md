@@ -10,16 +10,16 @@ and more...
 
 ## GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#143](https://github.com/creamcropdev/creamcrop/pull/143) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-2. 🎉 Merged PR [#271](https://github.com/epispot/EpiJS/pull/271) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-3. 🎉 Merged PR [#270](https://github.com/epispot/EpiJS/pull/270) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-4. 🎉 Merged PR [#142](https://github.com/creamcropdev/creamcrop/pull/142) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-5. 🎉 Merged PR [#21](https://github.com/Quantalabs/California-Election-Viewer/pull/21) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-6. 🎉 Merged PR [#269](https://github.com/epispot/EpiJS/pull/269) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 🎉 Merged PR [#20](https://github.com/Quantalabs/California-Election-Viewer/pull/20) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-8. 🎉 Merged PR [#18](https://github.com/Quantalabs/California-Election-Viewer/pull/18) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-9. 🎉 Merged PR [#140](https://github.com/creamcropdev/creamcrop/pull/140) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-10. 🎉 Merged PR [#139](https://github.com/creamcropdev/creamcrop/pull/139) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+1. 🎉 Merged PR [#22](https://github.com/Quantalabs/California-Election-Viewer/pull/22) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+2. 🗣 Commented on [#22](https://github.com/Quantalabs/California-Election-Viewer/issues/22) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+3. 🎉 Merged PR [#23](https://github.com/Quantalabs/California-Election-Viewer/pull/23) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+4. 🎉 Merged PR [#143](https://github.com/creamcropdev/creamcrop/pull/143) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+5. 🎉 Merged PR [#271](https://github.com/epispot/EpiJS/pull/271) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+6. 🎉 Merged PR [#270](https://github.com/epispot/EpiJS/pull/270) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+7. 🎉 Merged PR [#142](https://github.com/creamcropdev/creamcrop/pull/142) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
+8. 🎉 Merged PR [#21](https://github.com/Quantalabs/California-Election-Viewer/pull/21) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+9. 🎉 Merged PR [#269](https://github.com/epispot/EpiJS/pull/269) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
+10. 🎉 Merged PR [#20](https://github.com/Quantalabs/California-Election-Viewer/pull/20) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 <!--END_SECTION:activity-->
 
 ## Latest blog posts
