@@ -11,7 +11,7 @@ and more...
 ## GitHub Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#22](https://github.com/Quantalabs/California-Election-Viewer/pull/22) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-2. 🗣 Commented on [#22](https://github.com/Quantalabs/California-Election-Viewer/issues/22) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
+2. 🗣 Commented on [#22](https://github.com/Quantalabs/California-Election-Viewer/pull/22#issuecomment-1616340530) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 3. 🎉 Merged PR [#23](https://github.com/Quantalabs/California-Election-Viewer/pull/23) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
 4. 🎉 Merged PR [#143](https://github.com/creamcropdev/creamcrop/pull/143) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
 5. 🎉 Merged PR [#271](https://github.com/epispot/EpiJS/pull/271) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
