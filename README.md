@@ -1,6 +1,4 @@
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
