@@ -1,34 +1,8 @@
-<img src="header.png">
-I'm an avid developer, musician, and hobbyist. Some of my projects include:
-<p align='center'><a href="https://github.com/Quantalabs/EpiJS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=epispot&amp;repo=EpiJS" alt="Readme Card"></a>
-<a href="https://github.com/Quantalabs/NCOVDashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Quantalabs&amp;repo=NCOVDashboard" alt="Readme Card"></a></p>
-
-
-and more...
-
-- 📜 View my blog, the Foo-Bar **at https://quantalabs.github.io/**, or on [DEV](https://dev.to/Quantalabs) if you prefer
-
-## GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/Quantalabs/California-Election-Viewer/pull/22) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-2. 🗣 Commented on [#22](https://github.com/Quantalabs/California-Election-Viewer/pull/22#issuecomment-1616340530) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-3. 🎉 Merged PR [#23](https://github.com/Quantalabs/California-Election-Viewer/pull/23) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-4. 🎉 Merged PR [#143](https://github.com/creamcropdev/creamcrop/pull/143) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-5. 🎉 Merged PR [#271](https://github.com/epispot/EpiJS/pull/271) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-6. 🎉 Merged PR [#270](https://github.com/epispot/EpiJS/pull/270) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-7. 🎉 Merged PR [#142](https://github.com/creamcropdev/creamcrop/pull/142) in [creamcropdev/creamcrop](https://github.com/creamcropdev/creamcrop)
-8. 🎉 Merged PR [#21](https://github.com/Quantalabs/California-Election-Viewer/pull/21) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-9. 🎉 Merged PR [#269](https://github.com/epispot/EpiJS/pull/269) in [epispot/EpiJS](https://github.com/epispot/EpiJS)
-10. 🎉 Merged PR [#20](https://github.com/Quantalabs/California-Election-Viewer/pull/20) in [Quantalabs/California-Election-Viewer](https://github.com/Quantalabs/California-Election-Viewer)
-<!--END_SECTION:activity-->
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [An Introduction to Graph Theory](https://quantalabs.github.io/Intro-to-Graph-Theory/)
 <!-- BLOG-POST-LIST:END -->
-
-
-## Stats
-<p align="center"><img src="https://github.com/Quantalabs/github-stats/raw/master/generated/languages.svg" alt="Language Stats"><br>
-
-Check out [Cheesdle](https://cheesdle.vercel.app), my wordle spin-off!
