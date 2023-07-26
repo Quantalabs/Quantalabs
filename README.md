@@ -13,8 +13,6 @@
   <img src="/lines-of-code.svg" width="49%">
 </p>
 
-header, repo, acti, iso, issue, habits
-
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [An Introduction to Graph Theory](https://quantalabs.github.io/Intro-to-Graph-Theory/)
