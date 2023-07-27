@@ -102,7 +102,6 @@ jobs:
           plugin_followup: yes
           plugin_languages: yes
           plugin_languages_ignored: html, css
-          plugin_languages_threshold: 2%
 
 
   repositories:
