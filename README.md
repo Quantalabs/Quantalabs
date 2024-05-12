@@ -1,3 +1,6 @@
+> [!Warning]  
+> I'm currently rewriting all my projects in Rust, so any changes may dissapear after a rewrite. Contribute to them at your own risk!
+
 <img align="center" src="./header.svg" />
 <br/>
 <p>
