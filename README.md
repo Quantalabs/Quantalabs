@@ -1,5 +1,5 @@
 > [!Warning]  
-> I'm currently rewriting several of my repositories in Rust, so any changes you make may dissapear.
+> I'm currently rewriting several of my repositories in Rust, so any changes you make may disappear.
 
 <img align="center" src="./header.svg" />
 <br/>
