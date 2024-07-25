@@ -11,3 +11,6 @@
   <img src="/iso_calendar.svg" width="49%">
   <img src="/github-habits.svg" width="49%">
 </p>
+
+<!-- BEGIN CITE -->
+<!-- END CITE -->
