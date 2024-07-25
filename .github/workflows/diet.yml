@@ -1,0 +1,31 @@
+# This workflow will run tests using node and then publish a package to GitHub Packages when a release is created
+# For more information see: https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
+
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install Deps
+        run: npm install @citation-js/core @citation-js/plugin-doi @citation-js/plugin-csl zotero-api-client
+      - name: Update README
+        run: node diet.js ${{ secrets.ZOTERO_API_KEY }} ${{ secrets.ZOTERO_USER_ID }}
+      - name: Commit changes
+        continue-on-error: true
+        run: |
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Update README"
+            git push
