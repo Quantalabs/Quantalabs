@@ -1,16 +1,16 @@
-> [!Warning]  
-> I'm currently rewriting several of my repositories in Rust, so any changes you make may disappear.
+<p align="center"><img src="./header.svg" /></p>
 
-<img align="center" src="./header.svg" />
-<br/>
-<p>
-  <img src="/repositories.svg" width="49%">
-  <img src="/acti_comm.svg" width="49%">
+<p align="center" style="text-align: center;">
+I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
+<ul style="width: 25%; margin-left: auto; margin-right: auto; text-align: center;">
+  <li> Machine Learning </li>
+  <li>Computational Linguistics</li>
+  <li>Epidemiology</li>
+  <li>Music Theory</li>
+  <li>Discrete Mathematics</li>
+</ul>
 </p>
-<p>
-  <img src="/iso_calendar.svg" width="49%">
-  <img src="/github-habits.svg" width="49%">
-</p>
+
 
 ## My Diet 🍔
 > The research papers that I've been consuming lately.
@@ -23,3 +23,8 @@
 - Cruz-Monteagudo, M., Medina-Franco, J. L., Pérez-Castillo, Y., Nicolotti, O., Cordeiro, M. N. D. S., & Borges, F. (2014). Activity cliffs in drug discovery: Dr Jekyll or Mr Hyde? Drug Discovery Today, 19(8), 1069–1080. https://doi.org/10.1016/j.drudis.2014.02.003
 
 <!-- END CITE -->
+
+<br/>
+<p align="center">
+  <img src="./iso_calendar.svg">
+</p>
