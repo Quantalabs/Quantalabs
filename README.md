@@ -30,3 +30,5 @@ I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
 <p align="center">
   <img src="./iso_calendar.svg">
 </p>
+
+<table><tr><td><img src="http://math.jhu.edu/~savitt/GTM/bollobas.jpg" width=400 alt="Modern Graph Theory - Bela Bollobas"></td><td><p>If I were a Springer-Verlag Graduate Text in Mathematics, I would be Bela Bollobas's <b><i>Modern Graph Theory</i></b>.</p><p>I am an in-depth account of graph theory, written with the student in mind; I reflect the current state of the subject and emphasize connections with other branches of pure mathematics.   Recognizing that graph theory is one of several courses competing for the attention of a student, I contain extensive descriptive passages designed to convey the flavor of the subject and to arouse interest.</p><p>Which Springer GTM would <i>you</i> be? <a href="http://math.jhu.edu/~savitt/GTM.html">The Springer GTM Test</a></p></td></tr></table>
