@@ -16,13 +16,15 @@ I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
 > The research papers that I've been consuming lately.
 
 <!-- BEGIN CITE -->
-- Xin, H., Ren, Z. Z., Song, J., Shao, Z., Zhao, W., Wang, H., Liu, B., Zhang, L., Lu, X., Du, Q., Gao, W., Zhu, Q., Yang, D., Gou, Z., Wu, Z. F., Luo, F., & Ruan, C. (2024). DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search (Version 1). arXiv. https://doi.org/10.48550/ARXIV.2408.08152
+- Zhou, J., & Sander, J. (2003). Data Bubbles for Non-Vector Data. In Proceedings 2003 VLDB Conference (pp. 452–463). Elsevier. https://doi.org/10.1016/b978-012722442-8/50047-1
 
-- Gallegos, I. O., Rossi, R. A., Barrow, J., Tanjim, M. M., Kim, S., Dernoncourt, F., Yu, T., Zhang, R., & Ahmed, N. K. (2024). Bias and Fairness in Large Language Models: A Survey. Computational Linguistics, 50(3), 1097–1179. https://doi.org/10.1162/coli_a_00524
+- Bhola, I. (2023). Dialectal Variation and Mutual Intelligibility of Hindi in Delhi. International Journal of Languages and Culture, 3(2), 55–64. https://doi.org/10.51483/ijlc.3.2.2023.55-64
 
-- Fiore, T. M., & Noll, T. (2011). Commuting Groups and the Topos of Triads (Version 2). arXiv. https://doi.org/10.48550/ARXIV.1102.1496
+- Díaz, M., & Switkes, J. (2021). Speaking out: A mathematical model of language preservation. Heliyon, 7(5), e06975. https://doi.org/10.1016/j.heliyon.2021.e06975
 
-- Lo, Y.-C., Rensi, S. E., Torng, W., & Altman, R. B. (2018). Machine learning in chemoinformatics and drug discovery. Drug Discovery Today, 23(8), 1538–1546. https://doi.org/10.1016/j.drudis.2018.05.010
+- Abrams, D. M., & Strogatz, S. H. (2003). Modelling the dynamics of language death. Nature, 424(6951), 900–900. https://doi.org/10.1038/424900a
+
+- Satyendra, R. (2004). An Informal Introduction to Some Formal Concepts from Lewin’s Transformational Theory. Journal of Music Theory, 48(1), 99–141. https://doi.org/10.1215/00222909-48-1-99
 
 <!-- END CITE -->
 
