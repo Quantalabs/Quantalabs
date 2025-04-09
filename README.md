@@ -12,7 +12,7 @@ I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
 </p>
 
 
-## My Diet 🍔
+## My [Diet](https://github.com/Quantalabs/diet) 🍔
 > The research papers that I've been consuming lately.
 
 <!-- BEGIN CITE -->
