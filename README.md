@@ -16,6 +16,8 @@ I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
 > The research papers that I've been consuming lately.
 
 <!-- BEGIN CITE -->
+- Polykovskiy, D., Zhebrak, A., Sanchez-Lengeling, B., Golovanov, S., Tatanov, O., Belyaev, S., Kurbanov, R., Artamonov, A., Aladinskiy, V., Veselov, M., Kadurin, A., Johansson, S., Chen, H., Nikolenko, S., Aspuru-Guzik, A., & Zhavoronkov, A. (2020). Molecular Sets (MOSES): A Benchmarking Platform for Molecular Generation Models. Frontiers in Pharmacology, 11. https://doi.org/10.3389/fphar.2020.565644
+
 - Zhou, J., & Sander, J. (2003). Data Bubbles for Non-Vector Data. In Proceedings 2003 VLDB Conference (pp. 452–463). Elsevier. https://doi.org/10.1016/b978-012722442-8/50047-1
 
 - Bhola, I. (2023). Dialectal Variation and Mutual Intelligibility of Hindi in Delhi. International Journal of Languages and Culture, 3(2), 55–64. https://doi.org/10.51483/ijlc.3.2.2023.55-64
