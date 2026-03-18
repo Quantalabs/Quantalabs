@@ -3,7 +3,6 @@
 <p align="center" style="text-align: center;">
 I'm Arvind, a Rustacean and Arch Linux User (btw). I'm interested in:
 <ul style="width: 25%; margin-left: auto; margin-right: auto; text-align: center;">
-  <li> Machine Learning </li>
   <li>Computational Linguistics</li>
   <li>Epidemiology</li>
   <li>Music Theory</li>
